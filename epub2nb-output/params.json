@@ -1,0 +1,1857 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Krajina s Ofélií",
+      "identifier": "69a4e4a0-716a-4014-97c3-5c82d7f06c4e",
+      "author": "Marie Šťastná",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-03-01T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "krajina_s_ofelii_001.md",
+            "xhtml": "krajina_s_ofelii_001.htm",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_002.md",
+            "xhtml": "krajina_s_ofelii_002.htm",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_003.md",
+            "xhtml": "krajina_s_ofelii_003.htm",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_004.md",
+            "xhtml": "krajina_s_ofelii_004.htm",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_005.md",
+            "xhtml": "krajina_s_ofelii_005.htm",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_006.md",
+            "xhtml": "krajina_s_ofelii_006.htm",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_007.md",
+            "xhtml": "krajina_s_ofelii_007.htm",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_008.md",
+            "xhtml": "krajina_s_ofelii_008.htm",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_009.md",
+            "xhtml": "krajina_s_ofelii_009.htm",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_010.md",
+            "xhtml": "krajina_s_ofelii_010.htm",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_011.md",
+            "xhtml": "krajina_s_ofelii_011.htm",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_012.md",
+            "xhtml": "krajina_s_ofelii_012.htm",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_013.md",
+            "xhtml": "krajina_s_ofelii_013.htm",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_014.md",
+            "xhtml": "krajina_s_ofelii_014.htm",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_015.md",
+            "xhtml": "krajina_s_ofelii_015.htm",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_016.md",
+            "xhtml": "krajina_s_ofelii_016.htm",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_017.md",
+            "xhtml": "krajina_s_ofelii_017.htm",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_018.md",
+            "xhtml": "krajina_s_ofelii_018.htm",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_019.md",
+            "xhtml": "krajina_s_ofelii_019.htm",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_020.md",
+            "xhtml": "krajina_s_ofelii_020.htm",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_021.md",
+            "xhtml": "krajina_s_ofelii_021.htm",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_022.md",
+            "xhtml": "krajina_s_ofelii_022.htm",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_023.md",
+            "xhtml": "krajina_s_ofelii_023.htm",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_024.md",
+            "xhtml": "krajina_s_ofelii_024.htm",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_025.md",
+            "xhtml": "krajina_s_ofelii_025.htm",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_026.md",
+            "xhtml": "krajina_s_ofelii_026.htm",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_027.md",
+            "xhtml": "krajina_s_ofelii_027.htm",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_028.md",
+            "xhtml": "krajina_s_ofelii_028.htm",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_029.md",
+            "xhtml": "krajina_s_ofelii_029.htm",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_030.md",
+            "xhtml": "krajina_s_ofelii_030.htm",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_031.md",
+            "xhtml": "krajina_s_ofelii_031.htm",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_032.md",
+            "xhtml": "krajina_s_ofelii_032.htm",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_033.md",
+            "xhtml": "krajina_s_ofelii_033.htm",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_034.md",
+            "xhtml": "krajina_s_ofelii_034.htm",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_035.md",
+            "xhtml": "krajina_s_ofelii_035.htm",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_036.md",
+            "xhtml": "krajina_s_ofelii_036.htm",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_037.md",
+            "xhtml": "krajina_s_ofelii_037.htm",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_038.md",
+            "xhtml": "krajina_s_ofelii_038.htm",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_039.md",
+            "xhtml": "krajina_s_ofelii_039.htm",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_040.md",
+            "xhtml": "krajina_s_ofelii_040.htm",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_041.md",
+            "xhtml": "krajina_s_ofelii_041.htm",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_042.md",
+            "xhtml": "krajina_s_ofelii_042.htm",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_043.md",
+            "xhtml": "krajina_s_ofelii_043.htm",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_044.md",
+            "xhtml": "krajina_s_ofelii_044.htm",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_045.md",
+            "xhtml": "krajina_s_ofelii_045.htm",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_046.md",
+            "xhtml": "krajina_s_ofelii_046.htm",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_047.md",
+            "xhtml": "krajina_s_ofelii_047.htm",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_048.md",
+            "xhtml": "krajina_s_ofelii_048.htm",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_049.md",
+            "xhtml": "krajina_s_ofelii_049.htm",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_050.md",
+            "xhtml": "krajina_s_ofelii_050.htm",
+            "id": 49,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_051.md",
+            "xhtml": "krajina_s_ofelii_051.htm",
+            "id": 50,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_052.md",
+            "xhtml": "krajina_s_ofelii_052.htm",
+            "id": 51,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_053.md",
+            "xhtml": "krajina_s_ofelii_053.htm",
+            "id": 52,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_054.md",
+            "xhtml": "krajina_s_ofelii_054.htm",
+            "id": 53,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_055.md",
+            "xhtml": "krajina_s_ofelii_055.htm",
+            "id": 54,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_056.md",
+            "xhtml": "krajina_s_ofelii_056.htm",
+            "id": 55,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_057.md",
+            "xhtml": "krajina_s_ofelii_057.htm",
+            "id": 56,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_058.md",
+            "xhtml": "krajina_s_ofelii_058.htm",
+            "id": 57,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_059.md",
+            "xhtml": "krajina_s_ofelii_059.htm",
+            "id": 58,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_060.md",
+            "xhtml": "krajina_s_ofelii_060.htm",
+            "id": 59,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_061.md",
+            "xhtml": "krajina_s_ofelii_061.htm",
+            "id": 60,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_062.md",
+            "xhtml": "krajina_s_ofelii_062.htm",
+            "id": 61,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_063.md",
+            "xhtml": "krajina_s_ofelii_063.htm",
+            "id": 62,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_064.md",
+            "xhtml": "krajina_s_ofelii_064.htm",
+            "id": 63,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_065.md",
+            "xhtml": "krajina_s_ofelii_065.htm",
+            "id": 64,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_066.md",
+            "xhtml": "krajina_s_ofelii_066.htm",
+            "id": 65,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_067.md",
+            "xhtml": "krajina_s_ofelii_067.htm",
+            "id": 66,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_068.md",
+            "xhtml": "krajina_s_ofelii_068.htm",
+            "id": 67,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_069.md",
+            "xhtml": "krajina_s_ofelii_069.htm",
+            "id": 68,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_070.md",
+            "xhtml": "krajina_s_ofelii_070.htm",
+            "id": 69,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_071.md",
+            "xhtml": "krajina_s_ofelii_071.htm",
+            "id": 70,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_072.md",
+            "xhtml": "krajina_s_ofelii_072.htm",
+            "id": 71,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_073.md",
+            "xhtml": "krajina_s_ofelii_073.htm",
+            "id": 72,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_074.md",
+            "xhtml": "krajina_s_ofelii_074.htm",
+            "id": 73,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_075.md",
+            "xhtml": "krajina_s_ofelii_075.htm",
+            "id": 74,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_076.md",
+            "xhtml": "krajina_s_ofelii_076.htm",
+            "id": 75,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_077.md",
+            "xhtml": "krajina_s_ofelii_077.htm",
+            "id": 76,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_078.md",
+            "xhtml": "krajina_s_ofelii_078.htm",
+            "id": 77,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_079.md",
+            "xhtml": "krajina_s_ofelii_079.htm",
+            "id": 78,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_080.md",
+            "xhtml": "krajina_s_ofelii_080.htm",
+            "id": 79,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_081.md",
+            "xhtml": "krajina_s_ofelii_081.htm",
+            "id": 80,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_082.md",
+            "xhtml": "krajina_s_ofelii_082.htm",
+            "id": 81,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_083.md",
+            "xhtml": "krajina_s_ofelii_083.htm",
+            "id": 82,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_084.md",
+            "xhtml": "krajina_s_ofelii_084.htm",
+            "id": 83,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_085.md",
+            "xhtml": "krajina_s_ofelii_085.htm",
+            "id": 84,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_086.md",
+            "xhtml": "krajina_s_ofelii_086.htm",
+            "id": 85,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_087.md",
+            "xhtml": "krajina_s_ofelii_087.htm",
+            "id": 86,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_088.md",
+            "xhtml": "krajina_s_ofelii_088.htm",
+            "id": 87,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_089.md",
+            "xhtml": "krajina_s_ofelii_089.htm",
+            "id": 88,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_090.md",
+            "xhtml": "krajina_s_ofelii_090.htm",
+            "id": 89,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_091.md",
+            "xhtml": "krajina_s_ofelii_091.htm",
+            "id": 90,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_092.md",
+            "xhtml": "krajina_s_ofelii_092.htm",
+            "id": 91,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_093.md",
+            "xhtml": "krajina_s_ofelii_093.htm",
+            "id": 92,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_094.md",
+            "xhtml": "krajina_s_ofelii_094.htm",
+            "id": 93,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_095.md",
+            "xhtml": "krajina_s_ofelii_095.htm",
+            "id": 94,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_096.md",
+            "xhtml": "krajina_s_ofelii_096.htm",
+            "id": 95,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_097.md",
+            "xhtml": "krajina_s_ofelii_097.htm",
+            "id": 96,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_098.md",
+            "xhtml": "krajina_s_ofelii_098.htm",
+            "id": 97,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_099.md",
+            "xhtml": "krajina_s_ofelii_099.htm",
+            "id": 98,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_100.md",
+            "xhtml": "krajina_s_ofelii_100.htm",
+            "id": 99,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_101.md",
+            "xhtml": "krajina_s_ofelii_101.htm",
+            "id": 100,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "krajina_s_ofelii_102.md",
+            "xhtml": "krajina_s_ofelii_102.htm",
+            "id": 101,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Krajina s Ofélií",
+      "identifier": "69a4e4a0-716a-4014-97c3-5c82d7f06c4e",
+      "author": "Marie Šťastná",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-03-01T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_001.md",
+        "xhtml": "krajina_s_ofelii_001.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_002.md",
+        "xhtml": "krajina_s_ofelii_002.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_003.md",
+        "xhtml": "krajina_s_ofelii_003.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_004.md",
+        "xhtml": "krajina_s_ofelii_004.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_005.md",
+        "xhtml": "krajina_s_ofelii_005.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_006.md",
+        "xhtml": "krajina_s_ofelii_006.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_007.md",
+        "xhtml": "krajina_s_ofelii_007.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_008.md",
+        "xhtml": "krajina_s_ofelii_008.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_009.md",
+        "xhtml": "krajina_s_ofelii_009.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_010.md",
+        "xhtml": "krajina_s_ofelii_010.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_011.md",
+        "xhtml": "krajina_s_ofelii_011.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_012.md",
+        "xhtml": "krajina_s_ofelii_012.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_013.md",
+        "xhtml": "krajina_s_ofelii_013.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_014.md",
+        "xhtml": "krajina_s_ofelii_014.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_015.md",
+        "xhtml": "krajina_s_ofelii_015.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_016.md",
+        "xhtml": "krajina_s_ofelii_016.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_017.md",
+        "xhtml": "krajina_s_ofelii_017.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_018.md",
+        "xhtml": "krajina_s_ofelii_018.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_019.md",
+        "xhtml": "krajina_s_ofelii_019.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_020.md",
+        "xhtml": "krajina_s_ofelii_020.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_021.md",
+        "xhtml": "krajina_s_ofelii_021.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_022.md",
+        "xhtml": "krajina_s_ofelii_022.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_023.md",
+        "xhtml": "krajina_s_ofelii_023.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_024.md",
+        "xhtml": "krajina_s_ofelii_024.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_025.md",
+        "xhtml": "krajina_s_ofelii_025.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_026.md",
+        "xhtml": "krajina_s_ofelii_026.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_027.md",
+        "xhtml": "krajina_s_ofelii_027.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_028.md",
+        "xhtml": "krajina_s_ofelii_028.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_029.md",
+        "xhtml": "krajina_s_ofelii_029.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_030.md",
+        "xhtml": "krajina_s_ofelii_030.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_031.md",
+        "xhtml": "krajina_s_ofelii_031.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_032.md",
+        "xhtml": "krajina_s_ofelii_032.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_033.md",
+        "xhtml": "krajina_s_ofelii_033.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_034.md",
+        "xhtml": "krajina_s_ofelii_034.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_035.md",
+        "xhtml": "krajina_s_ofelii_035.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_036.md",
+        "xhtml": "krajina_s_ofelii_036.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_037.md",
+        "xhtml": "krajina_s_ofelii_037.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_038.md",
+        "xhtml": "krajina_s_ofelii_038.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_039.md",
+        "xhtml": "krajina_s_ofelii_039.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_040.md",
+        "xhtml": "krajina_s_ofelii_040.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_041.md",
+        "xhtml": "krajina_s_ofelii_041.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_042.md",
+        "xhtml": "krajina_s_ofelii_042.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_043.md",
+        "xhtml": "krajina_s_ofelii_043.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_044.md",
+        "xhtml": "krajina_s_ofelii_044.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_045.md",
+        "xhtml": "krajina_s_ofelii_045.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_046.md",
+        "xhtml": "krajina_s_ofelii_046.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_047.md",
+        "xhtml": "krajina_s_ofelii_047.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_048.md",
+        "xhtml": "krajina_s_ofelii_048.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_049.md",
+        "xhtml": "krajina_s_ofelii_049.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_050.md",
+        "xhtml": "krajina_s_ofelii_050.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_051.md",
+        "xhtml": "krajina_s_ofelii_051.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_052.md",
+        "xhtml": "krajina_s_ofelii_052.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_053.md",
+        "xhtml": "krajina_s_ofelii_053.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_054.md",
+        "xhtml": "krajina_s_ofelii_054.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_055.md",
+        "xhtml": "krajina_s_ofelii_055.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_056.md",
+        "xhtml": "krajina_s_ofelii_056.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_057.md",
+        "xhtml": "krajina_s_ofelii_057.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_058.md",
+        "xhtml": "krajina_s_ofelii_058.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_059.md",
+        "xhtml": "krajina_s_ofelii_059.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_060.md",
+        "xhtml": "krajina_s_ofelii_060.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_061.md",
+        "xhtml": "krajina_s_ofelii_061.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_062.md",
+        "xhtml": "krajina_s_ofelii_062.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_063.md",
+        "xhtml": "krajina_s_ofelii_063.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_064.md",
+        "xhtml": "krajina_s_ofelii_064.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_065.md",
+        "xhtml": "krajina_s_ofelii_065.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_066.md",
+        "xhtml": "krajina_s_ofelii_066.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_067.md",
+        "xhtml": "krajina_s_ofelii_067.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_068.md",
+        "xhtml": "krajina_s_ofelii_068.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_069.md",
+        "xhtml": "krajina_s_ofelii_069.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_070.md",
+        "xhtml": "krajina_s_ofelii_070.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_071.md",
+        "xhtml": "krajina_s_ofelii_071.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_072.md",
+        "xhtml": "krajina_s_ofelii_072.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_073.md",
+        "xhtml": "krajina_s_ofelii_073.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_074.md",
+        "xhtml": "krajina_s_ofelii_074.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_075.md",
+        "xhtml": "krajina_s_ofelii_075.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_076.md",
+        "xhtml": "krajina_s_ofelii_076.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_077.md",
+        "xhtml": "krajina_s_ofelii_077.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_078.md",
+        "xhtml": "krajina_s_ofelii_078.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_079.md",
+        "xhtml": "krajina_s_ofelii_079.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_080.md",
+        "xhtml": "krajina_s_ofelii_080.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_081.md",
+        "xhtml": "krajina_s_ofelii_081.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_082.md",
+        "xhtml": "krajina_s_ofelii_082.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_083.md",
+        "xhtml": "krajina_s_ofelii_083.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_084.md",
+        "xhtml": "krajina_s_ofelii_084.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_085.md",
+        "xhtml": "krajina_s_ofelii_085.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_086.md",
+        "xhtml": "krajina_s_ofelii_086.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_087.md",
+        "xhtml": "krajina_s_ofelii_087.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_088.md",
+        "xhtml": "krajina_s_ofelii_088.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_089.md",
+        "xhtml": "krajina_s_ofelii_089.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_090.md",
+        "xhtml": "krajina_s_ofelii_090.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_091.md",
+        "xhtml": "krajina_s_ofelii_091.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_092.md",
+        "xhtml": "krajina_s_ofelii_092.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_093.md",
+        "xhtml": "krajina_s_ofelii_093.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_094.md",
+        "xhtml": "krajina_s_ofelii_094.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_095.md",
+        "xhtml": "krajina_s_ofelii_095.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_096.md",
+        "xhtml": "krajina_s_ofelii_096.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_097.md",
+        "xhtml": "krajina_s_ofelii_097.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_098.md",
+        "xhtml": "krajina_s_ofelii_098.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_099.md",
+        "xhtml": "krajina_s_ofelii_099.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_100.md",
+        "xhtml": "krajina_s_ofelii_100.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_101.md",
+        "xhtml": "krajina_s_ofelii_101.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krajina_s_ofelii_102.md",
+        "xhtml": "krajina_s_ofelii_102.htm"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      }
+    ],
+    "classes": [
+      "calibre5",
+      "calibre6",
+      "calibre9",
+      "e-booklicenceobrazek",
+      "e-booklicenceparagraf",
+      "e-booklicencetext",
+      "e-booklicencetexthypertext9bchar",
+      "e-booknadpis2probasne",
+      "e-booktirazacitacetext",
+      "e-booktirazacitacetext1",
+      "e-booktirazacitacetextkurzivachar",
+      "e-booktirazautoradilo",
+      "e-booktirazodsazeni6b",
+      "e-booktiraztexttucnechar",
+      "e-booktitulkaautor",
+      "e-booktitulkadilo",
+      "e-bookversebezpredsazeni6bza",
+      "e-bookversebezpredsazeni6bzakurziva",
+      "pcalibre",
+      "pcalibre1",
+      "siktancodsazeniponadpisu",
+      "wordsection",
+      "wordsection1",
+      "wordsection2",
+      "wordsection3"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "stastna-krajina-s-ofelii"
+    },
+    "generatedAt": 1652419651337
+  }
+}

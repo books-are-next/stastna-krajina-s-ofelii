@@ -1,0 +1,128 @@
+---
+outputs: meta
+slug: book
+contentType: prose
+languageCode: en
+meta:
+  title: Krajina s Ofélií
+  identifier: 69a4e4a0-716a-4014-97c3-5c82d7f06c4e
+  author: Marie Šťastná
+  publisher: Městská knihovna v Praze
+  modified: '2017-03-01T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - krajina_s_ofelii_001.html
+  - krajina_s_ofelii_002.html
+  - krajina_s_ofelii_003.html
+  - krajina_s_ofelii_004.html
+  - krajina_s_ofelii_005.html
+  - krajina_s_ofelii_006.html
+  - krajina_s_ofelii_007.html
+  - krajina_s_ofelii_008.html
+  - krajina_s_ofelii_009.html
+  - krajina_s_ofelii_010.html
+  - krajina_s_ofelii_011.html
+  - krajina_s_ofelii_012.html
+  - krajina_s_ofelii_013.html
+  - krajina_s_ofelii_014.html
+  - krajina_s_ofelii_015.html
+  - krajina_s_ofelii_016.html
+  - krajina_s_ofelii_017.html
+  - krajina_s_ofelii_018.html
+  - krajina_s_ofelii_019.html
+  - krajina_s_ofelii_020.html
+  - krajina_s_ofelii_021.html
+  - krajina_s_ofelii_022.html
+  - krajina_s_ofelii_023.html
+  - krajina_s_ofelii_024.html
+  - krajina_s_ofelii_025.html
+  - krajina_s_ofelii_026.html
+  - krajina_s_ofelii_027.html
+  - krajina_s_ofelii_028.html
+  - krajina_s_ofelii_029.html
+  - krajina_s_ofelii_030.html
+  - krajina_s_ofelii_031.html
+  - krajina_s_ofelii_032.html
+  - krajina_s_ofelii_033.html
+  - krajina_s_ofelii_034.html
+  - krajina_s_ofelii_035.html
+  - krajina_s_ofelii_036.html
+  - krajina_s_ofelii_037.html
+  - krajina_s_ofelii_038.html
+  - krajina_s_ofelii_039.html
+  - krajina_s_ofelii_040.html
+  - krajina_s_ofelii_041.html
+  - krajina_s_ofelii_042.html
+  - krajina_s_ofelii_043.html
+  - krajina_s_ofelii_044.html
+  - krajina_s_ofelii_045.html
+  - krajina_s_ofelii_046.html
+  - krajina_s_ofelii_047.html
+  - krajina_s_ofelii_048.html
+  - krajina_s_ofelii_049.html
+  - krajina_s_ofelii_050.html
+  - krajina_s_ofelii_051.html
+  - krajina_s_ofelii_052.html
+  - krajina_s_ofelii_053.html
+  - krajina_s_ofelii_054.html
+  - krajina_s_ofelii_055.html
+  - krajina_s_ofelii_056.html
+  - krajina_s_ofelii_057.html
+  - krajina_s_ofelii_058.html
+  - krajina_s_ofelii_059.html
+  - krajina_s_ofelii_060.html
+  - krajina_s_ofelii_061.html
+  - krajina_s_ofelii_062.html
+  - krajina_s_ofelii_063.html
+  - krajina_s_ofelii_064.html
+  - krajina_s_ofelii_065.html
+  - krajina_s_ofelii_066.html
+  - krajina_s_ofelii_067.html
+  - krajina_s_ofelii_068.html
+  - krajina_s_ofelii_069.html
+  - krajina_s_ofelii_070.html
+  - krajina_s_ofelii_071.html
+  - krajina_s_ofelii_072.html
+  - krajina_s_ofelii_073.html
+  - krajina_s_ofelii_074.html
+  - krajina_s_ofelii_075.html
+  - krajina_s_ofelii_076.html
+  - krajina_s_ofelii_077.html
+  - krajina_s_ofelii_078.html
+  - krajina_s_ofelii_079.html
+  - krajina_s_ofelii_080.html
+  - krajina_s_ofelii_081.html
+  - krajina_s_ofelii_082.html
+  - krajina_s_ofelii_083.html
+  - krajina_s_ofelii_084.html
+  - krajina_s_ofelii_085.html
+  - krajina_s_ofelii_086.html
+  - krajina_s_ofelii_087.html
+  - krajina_s_ofelii_088.html
+  - krajina_s_ofelii_089.html
+  - krajina_s_ofelii_090.html
+  - krajina_s_ofelii_091.html
+  - krajina_s_ofelii_092.html
+  - krajina_s_ofelii_093.html
+  - krajina_s_ofelii_094.html
+  - krajina_s_ofelii_095.html
+  - krajina_s_ofelii_096.html
+  - krajina_s_ofelii_097.html
+  - krajina_s_ofelii_098.html
+  - krajina_s_ofelii_099.html
+  - krajina_s_ofelii_100.html
+  - krajina_s_ofelii_101.html
+  - krajina_s_ofelii_102.html
+tocBase:
+  - id: section-1
+    children: []
+    isSection: true
+static:
+  - style
+  - scripts
+  - title
+  - fonts
+  - resources
+  - template-images
+  - favicon.png
+---

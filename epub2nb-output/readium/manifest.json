@@ -1,0 +1,856 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Krajina s Ofélií",
+    "identifier": "69a4e4a0-716a-4014-97c3-5c82d7f06c4e",
+    "author": "Marie Šťastná",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2017-03-01T00:00:00.000Z",
+    "published": "2017-03-03T00:00:00.000Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_001.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_002.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_003.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_004.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_005.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_006.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_007.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_008.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_009.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_010.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_011.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_012.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_013.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_014.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_015.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_016.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_017.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_018.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_019.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_020.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_021.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_022.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_023.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_024.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_025.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_026.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_027.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_028.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_029.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_030.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_031.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_032.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_033.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_034.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_035.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_036.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_037.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_038.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_039.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_040.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_041.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_042.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_043.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_044.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_045.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_046.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_047.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_048.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_049.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_050.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_051.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_052.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_053.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_054.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_055.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_056.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_057.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_058.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_059.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_060.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_061.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_062.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_063.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_064.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_065.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_066.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_067.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_068.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_069.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_070.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_071.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_072.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_073.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_074.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_075.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_076.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_077.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_078.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_079.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_080.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_081.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_082.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_083.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_084.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_085.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_086.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_087.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_088.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_089.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_090.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_091.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_092.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_093.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_094.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_095.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_096.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_097.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_098.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_099.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_100.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_101.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_ofelii_102.htm"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Dnešní Ofílie",
+      "href": "OEBPS/Text/krajina_s_ofelii_005.htm"
+    },
+    {
+      "title": "Kapka IX.",
+      "href": "OEBPS/Text/krajina_s_ofelii_006.htm"
+    },
+    {
+      "title": "Zarůstání",
+      "href": "OEBPS/Text/krajina_s_ofelii_007.htm"
+    },
+    {
+      "title": "Melodie štětců",
+      "href": "OEBPS/Text/krajina_s_ofelii_008.htm"
+    },
+    {
+      "title": "Pohyby",
+      "href": "OEBPS/Text/krajina_s_ofelii_009.htm"
+    },
+    {
+      "title": "Rytmy",
+      "href": "OEBPS/Text/krajina_s_ofelii_010.htm"
+    },
+    {
+      "title": "Roční doby",
+      "href": "OEBPS/Text/krajina_s_ofelii_011.htm"
+    },
+    {
+      "title": "Zase až v létě",
+      "href": "OEBPS/Text/krajina_s_ofelii_012.htm"
+    },
+    {
+      "title": "Dívenka z předměstí",
+      "href": "OEBPS/Text/krajina_s_ofelii_013.htm"
+    },
+    {
+      "title": "Maličkosti",
+      "href": "OEBPS/Text/krajina_s_ofelii_014.htm"
+    },
+    {
+      "title": "Jak plynou dny",
+      "href": "OEBPS/Text/krajina_s_ofelii_015.htm"
+    },
+    {
+      "title": "Trubadúrská",
+      "href": "OEBPS/Text/krajina_s_ofelii_016.htm"
+    },
+    {
+      "title": "Kapka XVII.",
+      "href": "OEBPS/Text/krajina_s_ofelii_017.htm"
+    },
+    {
+      "title": "Pohádkáři",
+      "href": "OEBPS/Text/krajina_s_ofelii_018.htm"
+    },
+    {
+      "title": "Pandora",
+      "href": "OEBPS/Text/krajina_s_ofelii_019.htm"
+    },
+    {
+      "title": "Igor Kitzberger: Malé gesto",
+      "href": "OEBPS/Text/krajina_s_ofelii_020.htm"
+    },
+    {
+      "title": "Nelásky",
+      "href": "OEBPS/Text/krajina_s_ofelii_021.htm"
+    },
+    {
+      "title": "O Roxaně",
+      "href": "OEBPS/Text/krajina_s_ofelii_022.htm"
+    },
+    {
+      "title": "Jarní tíha",
+      "href": "OEBPS/Text/krajina_s_ofelii_023.htm"
+    },
+    {
+      "title": "Jestli mě chceš",
+      "href": "OEBPS/Text/krajina_s_ofelii_024.htm"
+    },
+    {
+      "title": "Marc Chagall: Já a vesnice",
+      "href": "OEBPS/Text/krajina_s_ofelii_025.htm"
+    },
+    {
+      "title": "Požitky",
+      "href": "OEBPS/Text/krajina_s_ofelii_026.htm"
+    },
+    {
+      "title": "Co se mi stalo zlého",
+      "href": "OEBPS/Text/krajina_s_ofelii_027.htm"
+    },
+    {
+      "title": "Kočičky 2000",
+      "href": "OEBPS/Text/krajina_s_ofelii_028.htm"
+    },
+    {
+      "title": "Kapka XVIII.",
+      "href": "OEBPS/Text/krajina_s_ofelii_029.htm"
+    },
+    {
+      "title": "Myrrha",
+      "href": "OEBPS/Text/krajina_s_ofelii_030.htm"
+    },
+    {
+      "title": "Mezihra",
+      "href": "OEBPS/Text/krajina_s_ofelii_031.htm"
+    },
+    {
+      "title": "Pro G.",
+      "href": "OEBPS/Text/krajina_s_ofelii_032.htm"
+    },
+    {
+      "title": "Místo snídaně",
+      "href": "OEBPS/Text/krajina_s_ofelii_033.htm"
+    },
+    {
+      "title": "Na mříži",
+      "href": "OEBPS/Text/krajina_s_ofelii_034.htm"
+    },
+    {
+      "title": "Oidipus",
+      "href": "OEBPS/Text/krajina_s_ofelii_035.htm"
+    },
+    {
+      "title": "Velký úklid",
+      "href": "OEBPS/Text/krajina_s_ofelii_036.htm"
+    },
+    {
+      "title": "Změna času",
+      "href": "OEBPS/Text/krajina_s_ofelii_037.htm"
+    },
+    {
+      "title": "Dárek",
+      "href": "OEBPS/Text/krajina_s_ofelii_038.htm"
+    },
+    {
+      "title": "Výslovnost a kroky",
+      "href": "OEBPS/Text/krajina_s_ofelii_039.htm"
+    },
+    {
+      "title": "Vyplázla jazyk",
+      "href": "OEBPS/Text/krajina_s_ofelii_040.htm"
+    },
+    {
+      "title": "Africké slunce",
+      "href": "OEBPS/Text/krajina_s_ofelii_041.htm"
+    },
+    {
+      "title": "Pláž",
+      "href": "OEBPS/Text/krajina_s_ofelii_042.htm"
+    },
+    {
+      "title": "Kapka XXV.",
+      "href": "OEBPS/Text/krajina_s_ofelii_043.htm"
+    },
+    {
+      "title": "(Zdálo se mi)",
+      "href": "OEBPS/Text/krajina_s_ofelii_044.htm"
+    },
+    {
+      "title": "Rubensovy Grácie",
+      "href": "OEBPS/Text/krajina_s_ofelii_045.htm"
+    },
+    {
+      "title": "O času",
+      "href": "OEBPS/Text/krajina_s_ofelii_046.htm"
+    },
+    {
+      "title": "Voněl",
+      "href": "OEBPS/Text/krajina_s_ofelii_047.htm"
+    },
+    {
+      "title": "Hořící město",
+      "href": "OEBPS/Text/krajina_s_ofelii_048.htm"
+    },
+    {
+      "title": "Potajmu",
+      "href": "OEBPS/Text/krajina_s_ofelii_049.htm"
+    },
+    {
+      "title": "Veřejně I. (žena)",
+      "href": "OEBPS/Text/krajina_s_ofelii_050.htm"
+    },
+    {
+      "title": "Veřejně II. (muž)",
+      "href": "OEBPS/Text/krajina_s_ofelii_051.htm"
+    },
+    {
+      "title": "Mistr",
+      "href": "OEBPS/Text/krajina_s_ofelii_052.htm"
+    },
+    {
+      "title": "Paul Gauguin: Copak, žárlíš?",
+      "href": "OEBPS/Text/krajina_s_ofelii_053.htm"
+    },
+    {
+      "title": "Lolita",
+      "href": "OEBPS/Text/krajina_s_ofelii_054.htm"
+    },
+    {
+      "title": "Protimluv",
+      "href": "OEBPS/Text/krajina_s_ofelii_055.htm"
+    },
+    {
+      "title": "Mokře barbarsky",
+      "href": "OEBPS/Text/krajina_s_ofelii_056.htm"
+    },
+    {
+      "title": "Ohlédnutí",
+      "href": "OEBPS/Text/krajina_s_ofelii_057.htm"
+    },
+    {
+      "title": "Mé ruce",
+      "href": "OEBPS/Text/krajina_s_ofelii_058.htm"
+    },
+    {
+      "title": "Amnonova modlitba",
+      "href": "OEBPS/Text/krajina_s_ofelii_059.htm"
+    },
+    {
+      "title": "Po pravdě",
+      "href": "OEBPS/Text/krajina_s_ofelii_060.htm"
+    },
+    {
+      "title": "(Myslela jsem)",
+      "href": "OEBPS/Text/krajina_s_ofelii_061.htm"
+    },
+    {
+      "title": "Marina",
+      "href": "OEBPS/Text/krajina_s_ofelii_062.htm"
+    },
+    {
+      "title": "Habanera",
+      "href": "OEBPS/Text/krajina_s_ofelii_063.htm"
+    },
+    {
+      "title": "Tango",
+      "href": "OEBPS/Text/krajina_s_ofelii_064.htm"
+    },
+    {
+      "title": "Mezi jarem a podzimem",
+      "href": "OEBPS/Text/krajina_s_ofelii_065.htm"
+    },
+    {
+      "title": "Královská hra",
+      "href": "OEBPS/Text/krajina_s_ofelii_066.htm"
+    },
+    {
+      "title": "Stavidla",
+      "href": "OEBPS/Text/krajina_s_ofelii_067.htm"
+    },
+    {
+      "title": "Až mě potkáš",
+      "href": "OEBPS/Text/krajina_s_ofelii_068.htm"
+    },
+    {
+      "title": "Za ocas",
+      "href": "OEBPS/Text/krajina_s_ofelii_069.htm"
+    },
+    {
+      "title": "Biblický námět",
+      "href": "OEBPS/Text/krajina_s_ofelii_070.htm"
+    },
+    {
+      "title": "Ležela jsem",
+      "href": "OEBPS/Text/krajina_s_ofelii_071.htm"
+    },
+    {
+      "title": "Porážka",
+      "href": "OEBPS/Text/krajina_s_ofelii_072.htm"
+    },
+    {
+      "title": "Pokrčení rameny",
+      "href": "OEBPS/Text/krajina_s_ofelii_073.htm"
+    },
+    {
+      "title": "Čaj s citrónem",
+      "href": "OEBPS/Text/krajina_s_ofelii_074.htm"
+    },
+    {
+      "title": "Máš to",
+      "href": "OEBPS/Text/krajina_s_ofelii_075.htm"
+    },
+    {
+      "title": "Příchutě",
+      "href": "OEBPS/Text/krajina_s_ofelii_076.htm"
+    },
+    {
+      "title": "Francis Picabia: Španělská noc",
+      "href": "OEBPS/Text/krajina_s_ofelii_077.htm"
+    },
+    {
+      "title": "Plesová sezóna",
+      "href": "OEBPS/Text/krajina_s_ofelii_078.htm"
+    },
+    {
+      "title": "Dáma se posadí",
+      "href": "OEBPS/Text/krajina_s_ofelii_079.htm"
+    },
+    {
+      "title": "Listopadová",
+      "href": "OEBPS/Text/krajina_s_ofelii_080.htm"
+    },
+    {
+      "title": "Boky",
+      "href": "OEBPS/Text/krajina_s_ofelii_081.htm"
+    },
+    {
+      "title": "Klekání pro holuby",
+      "href": "OEBPS/Text/krajina_s_ofelii_082.htm"
+    },
+    {
+      "title": "Zírání",
+      "href": "OEBPS/Text/krajina_s_ofelii_083.htm"
+    },
+    {
+      "title": "Hejna",
+      "href": "OEBPS/Text/krajina_s_ofelii_084.htm"
+    },
+    {
+      "title": "Šípkový čaj",
+      "href": "OEBPS/Text/krajina_s_ofelii_085.htm"
+    },
+    {
+      "title": "Rut",
+      "href": "OEBPS/Text/krajina_s_ofelii_086.htm"
+    },
+    {
+      "title": "Je to ale",
+      "href": "OEBPS/Text/krajina_s_ofelii_087.htm"
+    },
+    {
+      "title": "Biblické krásky",
+      "href": "OEBPS/Text/krajina_s_ofelii_088.htm"
+    },
+    {
+      "title": "Krasobruslař",
+      "href": "OEBPS/Text/krajina_s_ofelii_089.htm"
+    },
+    {
+      "title": "Dvakrát",
+      "href": "OEBPS/Text/krajina_s_ofelii_090.htm"
+    },
+    {
+      "title": "Dotýkání",
+      "href": "OEBPS/Text/krajina_s_ofelii_091.htm"
+    },
+    {
+      "title": "Výstřihy",
+      "href": "OEBPS/Text/krajina_s_ofelii_092.htm"
+    },
+    {
+      "title": "Sny",
+      "href": "OEBPS/Text/krajina_s_ofelii_093.htm"
+    },
+    {
+      "title": "Záchytné body",
+      "href": "OEBPS/Text/krajina_s_ofelii_094.htm"
+    },
+    {
+      "title": "Vincent Van Gogh: Rozsévač",
+      "href": "OEBPS/Text/krajina_s_ofelii_095.htm"
+    },
+    {
+      "title": "Ukolébavka",
+      "href": "OEBPS/Text/krajina_s_ofelii_096.htm"
+    },
+    {
+      "title": "Kaleidoskop",
+      "href": "OEBPS/Text/krajina_s_ofelii_097.htm"
+    },
+    {
+      "title": "Apokryf",
+      "href": "OEBPS/Text/krajina_s_ofelii_098.htm"
+    },
+    {
+      "title": "Bez názvu",
+      "href": "OEBPS/Text/krajina_s_ofelii_099.htm"
+    },
+    {
+      "title": "Bilanční",
+      "href": "OEBPS/Text/krajina_s_ofelii_100.htm"
+    },
+    {
+      "title": "Krajina s Ofélií",
+      "href": "OEBPS/Text/krajina_s_ofelii_101.htm"
+    }
+  ]
+}
