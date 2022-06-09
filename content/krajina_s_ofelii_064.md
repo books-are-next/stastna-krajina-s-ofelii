@@ -1,8 +1,7 @@
 ---
+title: Tango
 contentType: prose
 ---
-
-## Tango
 
 Ať se argentinské tanečnice  
      prospí  

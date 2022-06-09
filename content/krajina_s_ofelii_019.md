@@ -1,8 +1,7 @@
 ---
+title: Pandora
 contentType: prose
 ---
-
-## Pandora
 
 Je ospalá  
 A přece nechce zavřít oči  

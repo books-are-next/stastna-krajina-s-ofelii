@@ -1,8 +1,7 @@
 ---
+title: Lolita
 contentType: prose
 ---
-
-## Lolita
 
 Nádhera letící sopky  
 Bere s sebou kus země  
@@ -14,6 +13,8 @@ Má krásné nohy
      pod stolem  
      dlouhé k bolení
 
+  
+
 Včera se procházela po náměstí  
      a okenní tabule praskaly  
 Překypovala hmatem a čichem  
@@ -21,6 +22,8 @@ Překypovala hmatem a čichem
      po dlažbě  
      s hlavou vystrčenou  
      do řevu pohlaví
+
+  
 
 Jedna její noha nesla mládí  
      druhá boky

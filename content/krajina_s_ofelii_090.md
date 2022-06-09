@@ -1,8 +1,7 @@
 ---
+title: Dvakrát
 contentType: prose
 ---
-
-## Dvakrát
 
 Proč by to nemohlo  
      být dvakrát  

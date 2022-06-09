@@ -1,8 +1,7 @@
 ---
+title: Voněl
 contentType: prose
 ---
-
-## Voněl
 
 Voněl jako mokrá hlína  
      saze  
@@ -15,7 +14,7 @@ Měla jsem ho plnou hrst
      a teď musím chodit  
      s odhaleným krkem
 
-„Potom se,  
+_„Potom se,  
      každý jiným směrem,  
      dívali do písku  
-     a nadmíru se styděli.“
+     a nadmíru se styděli.“_

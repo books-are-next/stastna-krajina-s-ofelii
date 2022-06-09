@@ -1,8 +1,7 @@
 ---
+title: Mé ruce
 contentType: prose
 ---
-
-## Mé ruce
 
 Mé ruce se křižují  
      čelem  

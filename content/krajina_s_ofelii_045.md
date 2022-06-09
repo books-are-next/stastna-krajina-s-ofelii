@@ -1,8 +1,7 @@
 ---
+title: Rubensovy Grácie
 contentType: prose
 ---
-
-## Rubensovy Grácie
 
 Rubensovy Grácie snídají chřest  
      a pečeni  
@@ -16,6 +15,8 @@ Mají obuté vysoké šněrovací boty
      široce rozevřená stehna  
      a na židli po nich zůstane  
      upocený otisk
+
+  
 
 Vyprávějí o nocích stejně vlažných  
      a kluzkých  

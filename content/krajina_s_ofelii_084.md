@@ -1,8 +1,7 @@
 ---
+title: Hejna
 contentType: prose
 ---
-
-## Hejna
 
 Ptáci dlouhým letem  
      si tě pamatují  

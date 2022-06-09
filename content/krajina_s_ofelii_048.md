@@ -1,8 +1,7 @@
 ---
+title: Hořící město
 contentType: prose
 ---
-
-## Hořící město
 
 Některá města budou hořet dlouho  
 Skleněné urny rozplynulé v dýmu  
@@ -26,6 +25,8 @@ Každé ráno čte stěny čelem a rukama
 Skleněná urna  
      zhášedlo vysokých svíček
 
+  
+
 Mladému muži to praská pod nohama  
      pomalu klikatě a něžně  
      zajíždí do něj jizva chodníků  
@@ -34,6 +35,8 @@ V tu chvíli bych se na něj chtěla dívat
      očima od svých nohou dopředu  
      jak mu klesají ramena
 
+  
+
      a ochabují ruce  
      jak se mu rozjíždějí  
      koutky do vědoucího úsměvu  
@@ -41,6 +44,8 @@ V tu chvíli bych se na něj chtěla dívat
      do otevřené země  
 V tu chvíli  
      v tu chvíli bych ho milovala
+
+  
 
 Můj milý  
      pálíš kolem prvních vrásek  
@@ -62,11 +67,15 @@ Sesunou se jedno po druhém
      jen velká kaluž  
 Černisko k nepřehlédnutí
 
+  
+
 Zapálila jsem ti lem kabátu  
 Chci abys zemřel a já tě mohla oplakávat  
 Do smutku  
 Už ti ji chystám  
 Docela malou broušenou
+
+  
 
 V tu chvíli bych se na něj chtěla dívat  
      jak se mu rozjíždějí koutky  
@@ -79,5 +88,7 @@ Mrtvá města vyprávějí
      obnažovalo  
 Ve skleněné urně se schovám  
      až na dno
+
+  
 
 Města vyplazují jazyk červený a šedý

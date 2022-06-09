@@ -1,8 +1,7 @@
 ---
+title: Zírání
 contentType: prose
 ---
-
-## Zírání
 
 Ta otevřená rána  
      jsou nejchladnější  
@@ -11,6 +10,8 @@ Když křídla oken mlátí o zeď
      se ztrácíš
 
 Bez hrdla
+
+  
 
 Jako stín  
      který nemá  

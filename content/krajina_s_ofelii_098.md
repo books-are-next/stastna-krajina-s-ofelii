@@ -1,8 +1,7 @@
 ---
+title: Apokryf
 contentType: prose
 ---
-
-## Apokryf
 
 Usedám ke stolu v domě  
      kde ochraptělý  

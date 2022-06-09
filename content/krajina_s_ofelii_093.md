@@ -1,8 +1,7 @@
 ---
+title: Sny
 contentType: prose
 ---
-
-## Sny
 
 Jak odcházejí v té tmě  
      dávivé a vleklé  
@@ -13,6 +12,8 @@ Jednohubky snů s čerstvou pažitkou
      sloní paměť trvalých nářků
 
 A v nich se dávám
+
+  
 
 V paměti utkvívají  
      očima nafocené snímky neřestí  

@@ -1,8 +1,7 @@
 ---
+title: Plesová sezóna
 contentType: prose
 ---
-
-## Plesová sezóna
 
 Na podzim zbývá z listu  
      síťka na vlasy  

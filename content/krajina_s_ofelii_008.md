@@ -1,8 +1,7 @@
 ---
+title: Melodie štětců
 contentType: prose
 ---
-
-## Melodie štětců
 
 Pro lásky mrtvých malířů  
      jsem se narodila  

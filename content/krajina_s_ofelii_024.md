@@ -1,8 +1,7 @@
 ---
+title: Jestli mě chceš
 contentType: prose
 ---
-
-## Jestli mě chceš
 
 Jestli mě chceš  
      hmátni po mně levou rukou  

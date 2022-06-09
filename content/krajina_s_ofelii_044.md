@@ -1,8 +1,9 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
 
-## \* \* \*
+  
 
 ZDÁLO SE MI  
 JAK JSEM SESTŘE PŘEJELA  

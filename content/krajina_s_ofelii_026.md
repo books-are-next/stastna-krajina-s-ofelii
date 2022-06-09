@@ -1,8 +1,7 @@
 ---
+title: Požitky
 contentType: prose
 ---
-
-## Požitky
 
 V nedbalkách  
      chodím otevírat kočce  

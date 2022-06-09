@@ -1,8 +1,7 @@
 ---
+title: Pokrčení rameny
 contentType: prose
 ---
-
-## Pokrčení rameny
 
 Můj zvláštní miláčku  
      levá ruka u tvého pasu  

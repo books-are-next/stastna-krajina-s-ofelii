@@ -1,8 +1,7 @@
 ---
+title: Kapka XXV\.
 contentType: prose
 ---
-
-## Kapka XXV.
 
 Večer pití v noci slabost  
      ráno sklesle visí za šestou  

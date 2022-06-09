@@ -1,8 +1,7 @@
 ---
+title: Amnonova modlitba
 contentType: prose
 ---
-
-## Amnonova modlitba
 
 Sestro Támar dcero Davidova  
      obemkni svými pažemi  

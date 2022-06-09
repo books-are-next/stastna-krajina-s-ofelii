@@ -1,8 +1,7 @@
 ---
+title: Nelásky
 contentType: prose
 ---
-
-## Nelásky
 
 Zastavím se uprostřed těla  
      a vlezlá neláska mě předběhne  

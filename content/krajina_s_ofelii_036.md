@@ -1,8 +1,7 @@
 ---
+title: Velký úklid
 contentType: prose
 ---
-
-## Velký úklid
 
 Drhnutí podlahy pískem mezi zuby  
 Skřípot do svačiny  

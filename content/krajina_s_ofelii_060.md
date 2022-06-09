@@ -1,8 +1,9 @@
 ---
+title: Po pravdě
 contentType: prose
 ---
 
-## Po pravdě
+  
 
 Ode dneška do zítřka  
      mě tahá Ariadnina nit  

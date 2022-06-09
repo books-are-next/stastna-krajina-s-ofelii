@@ -1,8 +1,7 @@
 ---
+title: Ležela jsem
 contentType: prose
 ---
-
-## Ležela jsem
 
 Ležela jsem opřená  
      o břicho tvého života  

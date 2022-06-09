@@ -1,8 +1,7 @@
 ---
+title: Kaleidoskop
 contentType: prose
 ---
-
-## Kaleidoskop
 
 Cvakne to a lampa udělá tmu  
 Na stěně pořádají stíny  

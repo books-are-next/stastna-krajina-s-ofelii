@@ -1,8 +1,7 @@
 ---
+title: Rytmy
 contentType: prose
 ---
-
-## Rytmy
 
 Vrací se ke hrám veršotepci  
      rytmus života a umírání  

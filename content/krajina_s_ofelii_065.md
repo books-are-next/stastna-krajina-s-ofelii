@@ -1,8 +1,7 @@
 ---
+title: Mezi jarem a podzimem
 contentType: prose
 ---
-
-## Mezi jarem a podzimem
 
 Až ke mně přijdeš  
      bude podzim  

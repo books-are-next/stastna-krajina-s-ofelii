@@ -1,8 +1,7 @@
 ---
+title: Za ocas
 contentType: prose
 ---
-
-## Za ocas
 
 Za ocas chytím plamínek svíčky  
      za ocas kouře a dívčího šepotání  

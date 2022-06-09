@@ -1,8 +1,7 @@
 ---
+title: Mistr
 contentType: prose
 ---
-
-## Mistr
 
 Mistr odchází od plátna  
      aby mhouřil oči  

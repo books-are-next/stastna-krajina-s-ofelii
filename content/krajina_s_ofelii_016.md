@@ -1,8 +1,7 @@
 ---
+title: Trubadúrská
 contentType: prose
 ---
-
-## Trubadúrská
 
 Co jsi  
      na milence ze středověkých písní  

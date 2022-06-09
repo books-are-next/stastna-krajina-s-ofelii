@@ -1,8 +1,7 @@
 ---
+title: Biblické krásky
 contentType: prose
 ---
-
-## Biblické krásky
 
 Biblické krásky ztrácejí tváře  
      protože se jim všichni  

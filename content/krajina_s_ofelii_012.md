@@ -1,8 +1,7 @@
 ---
+title: Zase až v létě
 contentType: prose
 ---
-
-## Zase až v létě
 
 Milovat budu zase až v létě  
      až lišky se svázanýma nohama  

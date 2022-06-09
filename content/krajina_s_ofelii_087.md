@@ -1,8 +1,7 @@
 ---
+title: Je to ale
 contentType: prose
 ---
-
-## Je to ale
 
 Je to ale surovost  
      dostat se ti pod kůži  

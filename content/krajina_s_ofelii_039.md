@@ -1,8 +1,7 @@
 ---
+title: Výslovnost a kroky
 contentType: prose
 ---
-
-## Výslovnost a kroky
 
 Nechci nic  
 Jen být dívkou  

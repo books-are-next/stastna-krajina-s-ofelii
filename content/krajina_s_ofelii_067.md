@@ -1,8 +1,7 @@
 ---
+title: Stavidla
 contentType: prose
 ---
-
-## Stavidla
 
 Viděla jsem  
      jak povolila stavidla  

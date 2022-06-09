@@ -1,8 +1,7 @@
 ---
+title: Listopadová
 contentType: prose
 ---
-
-## Listopadová
 
 Čím dál jsem od tebe  
      tím kratší mám vlasy  

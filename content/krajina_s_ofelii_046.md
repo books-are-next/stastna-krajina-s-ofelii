@@ -1,8 +1,7 @@
 ---
+title: O času
 contentType: prose
 ---
-
-## O času
 
 Celý horký čas čekám  
      kdy na mně ulpí  
@@ -12,6 +11,8 @@ Celý ten čas chutnal lepkavě
      po marcipánu  
 A těžko něco říct  
      slepenými ústy
+
+  
 
 Teď se topím  
      v chladné čisté vodě

@@ -1,8 +1,7 @@
 ---
+title: 'Igor Kitzberger: Malé gesto'
 contentType: prose
 ---
-
-## Igor Kitzberger: Malé gesto
 
 Do štipců provázej myšlenky  
      pavouků  

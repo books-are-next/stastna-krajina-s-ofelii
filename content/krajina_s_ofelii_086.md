@@ -1,8 +1,7 @@
 ---
+title: Rut
 contentType: prose
 ---
-
-## Rut
 
 Sklízím žito rovnodennosti  
 Každý sekáč dlouhý krok  

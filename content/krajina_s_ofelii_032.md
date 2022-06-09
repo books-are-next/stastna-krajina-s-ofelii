@@ -1,8 +1,7 @@
 ---
+title: Pro G\.
 contentType: prose
 ---
-
-## Pro G.
 
 Zapřu se rukama do bílé pěny  
      až mě odtud potáhneš  

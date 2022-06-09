@@ -1,8 +1,7 @@
 ---
+title: Krajina s Ofélií
 contentType: prose
 ---
-
-## Krajina s Ofélií
 
 Vůně opia  
      se vznáší nad vanou  
@@ -10,6 +9,8 @@ Vůně opia
 
      po těle květy  
      vypálené sluncem
+
+  
 
 Přes okraj vany  
      visí urousaný cop

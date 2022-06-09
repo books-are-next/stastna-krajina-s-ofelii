@@ -1,8 +1,7 @@
 ---
+title: Dnešní Ofélie
 contentType: prose
 ---
-
-## Dnešní Ofélie
 
 Namísto postele  
      jen uslintaná deka  

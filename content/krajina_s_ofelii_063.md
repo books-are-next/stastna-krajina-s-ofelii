@@ -1,8 +1,7 @@
 ---
+title: Habanera
 contentType: prose
 ---
-
-## Habanera
 
 Mladíci s pusou podobnou  
      růžovému čumáku štěňat  

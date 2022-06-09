@@ -1,8 +1,7 @@
 ---
+title: Dívenka z předměstí
 contentType: prose
 ---
-
-## Dívenka z předměstí
 
 Dívenka z předměstí  
      si drží na ňadrech dlaně  

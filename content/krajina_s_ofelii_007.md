@@ -1,8 +1,7 @@
 ---
+title: Zarůstání
 contentType: prose
 ---
-
-## Zarůstání
 
 Špiním si ruce od země nahoru  
      až po korunu  
