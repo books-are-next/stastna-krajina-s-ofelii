@@ -1,8 +1,7 @@
 ---
+title: Na mříži
 contentType: prose
 ---
-
-## Na mříži
 
 Před branou  
 V dlaních kovové mříže  

@@ -1,8 +1,7 @@
 ---
+title: 'Paul Gauguin: Copak, žárlíš?'
 contentType: prose
 ---
-
-## Paul Gauguin: Copak, žárlíš?
 
 Dva se svezou po mé kůži  
      dva prosebníci  

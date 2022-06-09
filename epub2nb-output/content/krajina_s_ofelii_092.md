@@ -1,8 +1,7 @@
 ---
+title: Výstřihy
 contentType: prose
 ---
-
-## Výstřihy
 
 Na konci času v kavárně  
      muž vypráví o spánku  

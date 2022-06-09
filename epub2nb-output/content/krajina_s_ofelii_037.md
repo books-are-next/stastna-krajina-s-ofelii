@@ -1,8 +1,7 @@
 ---
+title: Změna času
 contentType: prose
 ---
-
-## Změna času
 
 Ptám se tě  
      už dýcháš  

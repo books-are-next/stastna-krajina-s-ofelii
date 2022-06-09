@@ -1,8 +1,7 @@
 ---
+title: Mezihra
 contentType: prose
 ---
-
-## Mezihra
 
 Hanblivě sedím naproti tobě  
      na klopení očí si připadám ostrá  

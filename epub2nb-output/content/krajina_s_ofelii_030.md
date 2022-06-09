@@ -1,8 +1,7 @@
 ---
+title: Myrrha
 contentType: prose
 ---
-
-## Myrrha
 
 Muž který mě miloval  
      byl můj otec  

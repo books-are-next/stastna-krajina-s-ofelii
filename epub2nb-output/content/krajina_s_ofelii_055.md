@@ -1,8 +1,7 @@
 ---
+title: Protimluv
 contentType: prose
 ---
-
-## Protimluv
 
 On je jak borovice  
      udrží se všude  

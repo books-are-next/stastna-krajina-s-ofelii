@@ -1,8 +1,7 @@
 ---
+title: Ohlédnutí
 contentType: prose
 ---
-
-## Ohlédnutí
 
 Ustrnutí před bílým plátnem současnosti  
 Vystouplé obrysy lidských těl  

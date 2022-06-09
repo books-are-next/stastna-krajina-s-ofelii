@@ -1,8 +1,7 @@
 ---
+title: Vyplázla jazyk
 contentType: prose
 ---
-
-## Vyplázla jazyk
 
 Vyplázla jazyk  
      jako neutěšenou krajinu  

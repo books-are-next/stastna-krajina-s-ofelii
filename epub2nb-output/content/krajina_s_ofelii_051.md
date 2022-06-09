@@ -1,8 +1,7 @@
 ---
+title: Veřejně II\. (muž)
 contentType: prose
 ---
-
-## Veřejně II. (muž)
 
 Muž v černém hledá úkryt  
 Hledá zběsile oběma rukama  

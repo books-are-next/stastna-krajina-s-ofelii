@@ -1,8 +1,7 @@
 ---
+title: Biblický námět
 contentType: prose
 ---
-
-## Biblický námět
 
 Kdyby se Judita  
      s těžkým nákladem v náručí  
@@ -15,8 +14,12 @@ Ale v očích má tolik nevědomí
 
 Spěchá
 
+  
+
 A služka za ní  
      s brumláním  
      podobným vrčení ledničky
+
+  
 
      ujídá hrozny z nesnědené večeře

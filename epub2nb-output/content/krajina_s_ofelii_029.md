@@ -1,8 +1,7 @@
 ---
+title: Kapka XVIII\.
 contentType: prose
 ---
-
-## Kapka XVIII.
 
 Moje tělo už neprosí o základy krásy  
      a chtíč asketa si chodí sám  

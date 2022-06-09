@@ -1,8 +1,7 @@
 ---
+title: Boky
 contentType: prose
 ---
-
-## Boky
 
 Křivka houslí  
      samosebou ženská  

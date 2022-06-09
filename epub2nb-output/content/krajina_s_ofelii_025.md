@@ -1,8 +1,7 @@
 ---
+title: 'Marc Chagall: Já a vesnice'
 contentType: prose
 ---
-
-## Marc Chagall: Já a vesnice
 
 Na pomezí hlavy býka  
      si stavím domy  

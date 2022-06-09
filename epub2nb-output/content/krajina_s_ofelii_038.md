@@ -1,8 +1,7 @@
 ---
+title: Dárek
 contentType: prose
 ---
-
-## Dárek
 
 Našla jsem na zemi  
      starý řemen  

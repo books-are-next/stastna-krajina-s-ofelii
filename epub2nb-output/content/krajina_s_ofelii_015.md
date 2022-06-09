@@ -1,8 +1,7 @@
 ---
+title: Jak plynou dny
 contentType: prose
 ---
-
-## Jak plynou dny
 
 Soudím podle tebe  
 Pokud to není nutné  

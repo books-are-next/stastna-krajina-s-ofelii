@@ -1,8 +1,9 @@
 ---
+title: "*\_*\_*"
 contentType: prose
 ---
 
-## \* \* \*
+  
 
 MYSLELA JSEM  
      NA NEMOŽNÉ  

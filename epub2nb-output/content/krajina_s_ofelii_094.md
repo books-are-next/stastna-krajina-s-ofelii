@@ -1,8 +1,7 @@
 ---
+title: Záchytné body
 contentType: prose
 ---
-
-## Záchytné body
 
 Znám klouzavé lechtání volného konce  
      řetízku tenkého jak vlas  
@@ -12,6 +11,8 @@ Znám klouzavé lechtání volného konce
      je to dost
 
 Záchytné body
+
+  
 
 A někdy zůstane na malíčku  
      zachycený lesk  

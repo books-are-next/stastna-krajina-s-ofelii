@@ -1,8 +1,7 @@
 ---
+title: Dáma se posadí
 contentType: prose
 ---
-
-## Dáma se posadí
 
 Dáma se posadí  
 Ano  
@@ -18,6 +17,8 @@ Baví se pohybem
      a pán (smích)  
      pán dělá prostocviky  
      pro její potěšení
+
+  
 
 Dáma se posadí  
 Ano  

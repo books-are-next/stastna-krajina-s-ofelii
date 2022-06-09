@@ -1,8 +1,7 @@
 ---
+title: Marina
 contentType: prose
 ---
-
-## Marina
 
 Fouká a olejové hřbety vln  
      marnivě rozlízly plátno  

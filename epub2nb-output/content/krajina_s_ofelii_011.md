@@ -1,8 +1,7 @@
 ---
+title: Roční doby
 contentType: prose
 ---
-
-## Roční doby
 
 Jaro zachřestí náramky  
      a s nečekanou chutí  
@@ -18,9 +17,13 @@ Sukně bezděčným pohybem
      ruka na okamžik ustrne v pohybu  
      a zlehka vklouzne mezi ně
 
+  
+
 Žena mívá svatozář  
      z granátových jablek  
      a ústa stejná
+
+  
 
 Po sklizni zakloní hlavu  
      pomalu přehodí nohu přes nohu  

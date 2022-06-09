@@ -1,8 +1,7 @@
 ---
+title: Bilanční
 contentType: prose
 ---
-
-## Bilanční
 
 Jsme o rok smrtelnější  
 O celý rok  

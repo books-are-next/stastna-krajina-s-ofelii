@@ -1,8 +1,7 @@
 ---
+title: Dotýkání
 contentType: prose
 ---
-
-## Dotýkání
 
 Všechno se tě týká  
 Všechno včetně mlčení  

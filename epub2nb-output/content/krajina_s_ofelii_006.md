@@ -1,8 +1,7 @@
 ---
+title: Kapka IX\.
 contentType: prose
 ---
-
-## Kapka IX.
 
 Všechno jsem vybrala  
      co bylo nejlepšího  

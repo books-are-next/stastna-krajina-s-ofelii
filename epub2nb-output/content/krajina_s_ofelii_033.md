@@ -1,8 +1,7 @@
 ---
+title: Místo snídaně
 contentType: prose
 ---
-
-## Místo snídaně
 
 Místo snídaně  
      drtím v zubech horko baroka  

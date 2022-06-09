@@ -1,8 +1,7 @@
 ---
+title: Královská hra
 contentType: prose
 ---
-
-## Královská hra
 
 Před deštěm domácí pohody  
      do ulity  

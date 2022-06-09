@@ -1,8 +1,7 @@
 ---
+title: Pláž
 contentType: prose
 ---
-
-## Pláž
 
 Moře jak svlečený psík  
      mi běží k nohám  

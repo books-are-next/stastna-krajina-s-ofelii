@@ -1,8 +1,7 @@
 ---
+title: Kapka XVII\.
 contentType: prose
 ---
-
-## Kapka XVII.
 
 V čase umlčení mi podávej ruku  
      a vychutnám si tě  

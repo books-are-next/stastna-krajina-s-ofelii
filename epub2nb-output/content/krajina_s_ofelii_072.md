@@ -1,8 +1,7 @@
 ---
+title: Porážka
 contentType: prose
 ---
-
-## Porážka
 
 Srdce jako kus  
      hovězího dobytka  
@@ -14,5 +13,7 @@ Pára se sráží ve vzduchu
 Otáčím se  
      v druhé ruce krajíc chleba  
      na pozadí stažená kůže
+
+  
 
 A možná se i usmívám

@@ -1,8 +1,7 @@
 ---
+title: Šípkový čaj
 contentType: prose
 ---
-
-## Šípkový čaj
 
 Štěstí dnes přeje milenkám herců  
      s přehledem vyhrávajícím  

@@ -1,8 +1,7 @@
 ---
+title: Maličkosti
 contentType: prose
 ---
-
-## Maličkosti
 
 Maličkosti  
      ty se říkají snadno  
@@ -14,6 +13,8 @@ Drž se rytmu holka
 Tobě to dneska sluší  
 A mám udávat takt  
      nebo se nechat vést
+
+  
 
 Doprovodná kapela se překonává  
 (Tleská i klavírista)

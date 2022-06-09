@@ -1,8 +1,7 @@
 ---
+title: Africké slunce
 contentType: prose
 ---
-
-## Africké slunce
 
 Africké slunce k ránu vysuší  
      co v čekání na něj utopilo hlavu  

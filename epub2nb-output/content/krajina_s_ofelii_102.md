@@ -1,16 +1,17 @@
 ---
+title: ''
 contentType: prose
 ---
 
-Marie Šťastná
+**Marie Šťastná**
 
-Krajina s Ofélií
+**Krajina s Ofélií**
 
 Edice Oceněná díla
 
 Redakce Jaroslava Bednářová
 
-Vydala Městská knihovna v Praze
+Vydala **Městská knihovna v Praze**
 
 Mariánské nám. 1, 115 72 Praha 1
 

@@ -1,8 +1,7 @@
 ---
+title: Bez názvu
 contentType: prose
 ---
-
-## Bez názvu
 
 Až na mě tma namíří ukazováčkem  
      seschnu a zešedivím  
@@ -25,7 +24,11 @@ Namíří na lásky
      dechem  
      před vším co mě dělá tělem
 
+  
+
      až na mě namíří
+
+  
 
      zbude po mně  
      jeden velmi tenký vlas

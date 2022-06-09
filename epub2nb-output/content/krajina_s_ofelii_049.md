@@ -1,8 +1,7 @@
 ---
+title: Potajmu
 contentType: prose
 ---
-
-## Potajmu
 
 Potajmu měníš tvar  
 Když jsem ti barvila vlasy  

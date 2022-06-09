@@ -1,8 +1,7 @@
 ---
+title: Krasobruslař
 contentType: prose
 ---
-
-## Krasobruslař
 
 Rukama v rovnováze  
      sčítám vyceněné zuby  
