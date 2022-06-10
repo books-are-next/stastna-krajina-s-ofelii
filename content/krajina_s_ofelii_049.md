@@ -3,6 +3,8 @@ title: Potajmu
 contentType: prose
 ---
 
+<section>
+
 Potajmu měníš tvar  
 Když jsem ti barvila vlasy  
      už jsi byla v pátém měsíci  
@@ -11,3 +13,5 @@ Na nahých prsou
 Zákeřná i v mateřství  
 Odvážně voníš  
 Teď po mléku
+
+</section>

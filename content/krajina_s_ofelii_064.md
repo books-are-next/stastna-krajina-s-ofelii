@@ -3,6 +3,8 @@ title: Tango
 contentType: prose
 ---
 
+<section>
+
 Ať se argentinské tanečnice  
      prospí  
      z únavy po koupání  
@@ -12,3 +14,5 @@ Zpod víček šlehá prchlivost
 Mocné žádosti  
 Po zlatých tělech  
      jen se ohlédnout
+
+</section>

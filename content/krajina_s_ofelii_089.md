@@ -3,6 +3,8 @@ title: Krasobruslař
 contentType: prose
 ---
 
+<section>
+
 Rukama v rovnováze  
      sčítám vyceněné zuby  
 Zatni
@@ -13,3 +15,5 @@ Amatér ledových ploch
      po rtech  
      ospalče  
      i stěny mlčí
+
+</section>

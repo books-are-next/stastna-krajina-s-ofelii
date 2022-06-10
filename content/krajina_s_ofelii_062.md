@@ -3,6 +3,8 @@ title: Marina
 contentType: prose
 ---
 
+<section>
+
 Fouká a olejové hřbety vln  
      marnivě rozlízly plátno  
      jak ležím na zádech  
@@ -10,3 +12,5 @@ Fouká a olejové hřbety vln
 Ve vzduchu štiplavý pach barev  
 Dnes večer jsem moře  
      stejně bílá na okrajích
+
+</section>

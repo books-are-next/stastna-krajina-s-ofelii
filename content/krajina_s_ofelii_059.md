@@ -3,6 +3,8 @@ title: Amnonova modlitba
 contentType: prose
 ---
 
+<section>
+
 Sestro Támar dcero Davidova  
      obemkni svými pažemi  
      unavenou hlavu bratrovu  
@@ -28,3 +30,5 @@ Chyť mě
      zatrať mě  
 Pojď a lež se mnou sestro má  
      jen ty mě můžeš uzdravit
+
+</section>

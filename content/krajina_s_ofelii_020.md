@@ -3,6 +3,8 @@ title: 'Igor Kitzberger: Malé gesto'
 contentType: prose
 ---
 
+<section>
+
 Do štipců provázej myšlenky  
      pavouků  
      do štipců přitiskni  
@@ -11,3 +13,5 @@ Do štipců provázej myšlenky
 Klín zabolí  
 Mrákotné bdění  
      na tenkém křivém soustu dne
+
+</section>

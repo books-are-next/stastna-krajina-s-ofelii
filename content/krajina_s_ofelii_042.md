@@ -3,6 +3,8 @@ title: Pláž
 contentType: prose
 ---
 
+<section>
+
 Moře jak svlečený psík  
      mi běží k nohám  
 Tak krotce mi už nikdo ruku nepodá  
@@ -12,3 +14,5 @@ U něj se neslyším ani polykat
 Co já vím  
 Až budu pokorná jako to moře  
      přitlačím
+
+</section>

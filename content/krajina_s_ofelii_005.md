@@ -3,6 +3,8 @@ title: Dnešní Ofélie
 contentType: prose
 ---
 
+<section>
+
 Namísto postele  
      jen uslintaná deka  
 A místo kvítků  
@@ -10,3 +12,5 @@ A místo kvítků
 Široko daleko  
 není žádná řeka  
 Utop mě tedy ve vaně
+
+</section>

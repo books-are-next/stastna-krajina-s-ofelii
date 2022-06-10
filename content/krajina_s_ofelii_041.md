@@ -3,6 +3,8 @@ title: Africké slunce
 contentType: prose
 ---
 
+<section>
+
 Africké slunce k ránu vysuší  
      co v čekání na něj utopilo hlavu  
 Psí čenichy v konzervách  
@@ -14,3 +16,5 @@ Sedím uprostřed, chudoby
      s rukama na špinavém písku  
 A čekáním na africké slunce  
      ztrácím souvislost
+
+</section>

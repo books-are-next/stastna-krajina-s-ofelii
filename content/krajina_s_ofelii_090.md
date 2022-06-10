@@ -3,6 +3,8 @@ title: Dvakrát
 contentType: prose
 ---
 
+<section>
+
 Proč by to nemohlo  
      být dvakrát  
      no proč  
@@ -22,3 +24,5 @@ Proč by to nemohlo
      začínám  
      (pomalu)  
      stárnout
+
+</section>

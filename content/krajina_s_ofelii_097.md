@@ -3,6 +3,8 @@ title: Kaleidoskop
 contentType: prose
 ---
 
+<section>
+
 Cvakne to a lampa udělá tmu  
 Na stěně pořádají stíny  
      komíhavou slavnost  
@@ -17,3 +19,5 @@ Tlačím si na víčka
 Kaleidoskop  
 Lehkomyslná mozaika  
 Beru ti koleny dech
+
+</section>

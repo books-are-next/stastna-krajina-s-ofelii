@@ -3,6 +3,8 @@ title: Veřejně II\. (muž)
 contentType: prose
 ---
 
+<section>
+
 Muž v černém hledá úkryt  
 Hledá zběsile oběma rukama  
 Posedlost veřejností  
@@ -20,3 +22,5 @@ V noci obracejí ruce dlaněmi vzhůru
 Spí s otevřenými ústy  
      a z koutků jim teče  
      tenký pramínek slin
+
+</section>

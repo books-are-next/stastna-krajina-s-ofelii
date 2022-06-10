@@ -3,6 +3,8 @@ title: Mezi jarem a podzimem
 contentType: prose
 ---
 
+<section>
+
 Až ke mně přijdeš  
      bude podzim  
      dutý a křiklavý  
@@ -20,3 +22,5 @@ Obejmu tě
      mezi vším a vším  
      mezi tebou a mnou  
 Mezi jarem a podzimem
+
+</section>

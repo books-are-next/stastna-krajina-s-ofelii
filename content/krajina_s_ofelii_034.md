@@ -3,6 +3,8 @@ title: Na mříži
 contentType: prose
 ---
 
+<section>
+
 Před branou  
 V dlaních kovové mříže  
 V zubech stisk  
@@ -19,3 +21,5 @@ Oběma rukama
      příchuť slabých chvil  
      a náhod  
      unavených
+
+</section>

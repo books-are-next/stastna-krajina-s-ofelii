@@ -3,6 +3,8 @@ title: Oidipus
 contentType: prose
 ---
 
+<section>
+
 Jakákoliv ženo  
      podej mi svoje břicho
 
@@ -14,7 +16,9 @@ Potkal
      pupeční šňůru přeťala  
      jehlovým podpatkem
 
-  
+</section>
+
+<section>
 
 Řekla mu  
      přitiskla jsem se nahá  
@@ -28,20 +32,28 @@ Kolem šli lidé
      od žen co odvracely hlavu  
      po muže kteří dusili růst
 
-  
+</section>
+
+<section>
 
 Řekla mu  
      projdi mnou a nezůstávej
 
-  
+</section>
+
+<section>
 
 Procházel břichem té ženy  
      cítil jak jej hněte a mačká  
      usnul v ní  
      kolébán sladkou vůní rzi a krve
 
-  
+</section>
+
+<section>
 
 Žena ztrpkla  
      zalila klín voskem  
      a zkřížila nohy
+
+</section>

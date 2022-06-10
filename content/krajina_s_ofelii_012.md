@@ -3,6 +3,8 @@ title: Zase až v létě
 contentType: prose
 ---
 
+<section>
+
 Milovat budu zase až v létě  
      až lišky se svázanýma nohama  
      nebudou mít srst pokrytou  
@@ -15,3 +17,5 @@ Milovat budu ne divoce
 Pozdě ráno skoro k polednímu  
      ve stálosti vstávání ve dvou  
 Až se naučím odpovídat
+
+</section>

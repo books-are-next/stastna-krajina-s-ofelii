@@ -3,6 +3,8 @@ title: Pro G\.
 contentType: prose
 ---
 
+<section>
+
 Zapřu se rukama do bílé pěny  
      až mě odtud potáhneš  
      ovinu se ti kolem kotníků  
@@ -17,3 +19,5 @@ Po těle ohně zkratek
      shrnutá kůže v rukou  
      kdo jsi že mě neslyšíš  
      když tebou křičím
+
+</section>

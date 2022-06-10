@@ -3,6 +3,8 @@ title: 'Marc Chagall: Já a vesnice'
 contentType: prose
 ---
 
+<section>
+
 Na pomezí hlavy býka  
      si stavím domy  
      já kladivoun domácích půtek  
@@ -16,3 +18,5 @@ Trocha zplozených lásek pro tebe
 Noci jsou chladné  
 Ano  
 A mám tě rád
+
+</section>

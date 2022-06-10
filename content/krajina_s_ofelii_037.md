@@ -3,6 +3,8 @@ title: Změna času
 contentType: prose
 ---
 
+<section>
+
 Ptám se tě  
      už dýcháš  
      nebo ještě dýcháš  
@@ -15,3 +17,5 @@ Každou noc
      plnou tvých slin  
      a noci jsou teď dlouhé  
 Po změně času
+
+</section>

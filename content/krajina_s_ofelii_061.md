@@ -3,7 +3,7 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
-  
+<section>
 
 MYSLELA JSEM  
      NA NEMOŽNÉ  
@@ -17,3 +17,5 @@ Hladila jsem břicha
      ani zvenčí  
 Tak se tiše směju v chůzi  
      a muž za mnou napíná uši
+
+</section>

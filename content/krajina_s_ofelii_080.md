@@ -3,6 +3,8 @@ title: Listopadová
 contentType: prose
 ---
 
+<section>
+
 Čím dál jsem od tebe  
      tím kratší mám vlasy  
      až se jich zbavím docela  
@@ -14,3 +16,5 @@ A já budu před tebou nová a tichá
      ale jen docela málo  
      a protože pokrčíš rameny  
      půjdu se obléknout
+
+</section>

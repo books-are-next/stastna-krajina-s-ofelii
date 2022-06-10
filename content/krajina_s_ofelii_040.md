@@ -3,6 +3,8 @@ title: Vyplázla jazyk
 contentType: prose
 ---
 
+<section>
+
 Vyplázla jazyk  
      jako neutěšenou krajinu  
      a oči se změnily  
@@ -10,3 +12,5 @@ Vyplázla jazyk
 Zhasla jsem  
 Kolik místa jen potřebuje  
      na takový výpad
+
+</section>

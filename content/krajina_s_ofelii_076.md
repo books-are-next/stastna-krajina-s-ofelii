@@ -3,7 +3,7 @@ title: Příchutě
 contentType: prose
 ---
 
-  
+<section>
 
 Trhnutím ramene odpovídám  
      když mi otevřenými ústy  
@@ -14,7 +14,11 @@ Parapetu se držím
      a od kolen nahoru se dere  
      bolavá slabost
 
-  
+</section>
+
+<section>
 
 Mívám chuť na okurky  
 A na med
+
+</section>

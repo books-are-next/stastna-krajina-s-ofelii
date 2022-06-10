@@ -3,6 +3,8 @@ title: Kapka XVIII\.
 contentType: prose
 ---
 
+<section>
+
 Moje tělo už neprosí o základy krásy  
      a chtíč asketa si chodí sám  
 Svedla bych tě zachvěním jedné řasy  
@@ -12,3 +14,5 @@ Svedla bych tě zachvěním jedné řasy
 Mé lásky mají jepičí život v doteku  
 Ve vzdálenosti se však podobají  
      želvám
+
+</section>

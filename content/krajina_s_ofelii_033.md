@@ -3,6 +3,8 @@ title: Místo snídaně
 contentType: prose
 ---
 
+<section>
+
 Místo snídaně  
      drtím v zubech horko baroka  
      prsty přejíždím po římsách  
@@ -12,3 +14,5 @@ A mezitím čas vyteče
      jako poraněné oko
 
 Podpírám si hlavu nad kávou
+
+</section>

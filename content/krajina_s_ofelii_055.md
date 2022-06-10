@@ -3,6 +3,8 @@ title: Protimluv
 contentType: prose
 ---
 
+<section>
+
 On je jak borovice  
      udrží se všude  
 Pak se polichoceně usmála  
@@ -11,3 +13,5 @@ Pak se polichoceně usmála
      je to hrůza  
      pořád ho potkávám  
      on to snad dělá naschvál
+
+</section>

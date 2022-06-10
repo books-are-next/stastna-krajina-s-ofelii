@@ -3,6 +3,8 @@ title: Je to ale
 contentType: prose
 ---
 
+<section>
+
 Je to ale surovost  
      dostat se ti pod kůži  
      zadrat se ti tam  
@@ -12,3 +14,5 @@ Trhlina celkem nepatrná
      a vysypeš mě po troškách  
      jak zbylý tabák  
 Amen
+
+</section>

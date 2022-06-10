@@ -3,6 +3,8 @@ title: 'Paul Gauguin: Copak, žárlíš?'
 contentType: prose
 ---
 
+<section>
+
 Dva se svezou po mé kůži  
      dva prosebníci  
 V ohybu lokte je držím  
@@ -12,3 +14,5 @@ Srdce moje
      moje ústa pro tebe  
      moje nohy pro tebe  
 (Zívá)
+
+</section>

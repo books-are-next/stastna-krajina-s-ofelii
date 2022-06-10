@@ -3,6 +3,8 @@ title: Mistr
 contentType: prose
 ---
 
+<section>
+
 Mistr odchází od plátna  
      aby mhouřil oči  
 Mistr se dívá jedním okem  
@@ -17,3 +19,5 @@ Mistr provádí
      počkej večer neřáde  
      já ti dám mistra  
      neusneš
+
+</section>

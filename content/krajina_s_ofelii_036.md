@@ -3,6 +3,8 @@ title: Velký úklid
 contentType: prose
 ---
 
+<section>
+
 Drhnutí podlahy pískem mezi zuby  
 Skřípot do svačiny  
      odpolední svazek lhostejnosti  
@@ -11,3 +13,5 @@ Skřípot do svačiny
 Písnička cezená skrz hadry  
 Před dům kaluž špíny  
      vnitřek čistoty
+
+</section>

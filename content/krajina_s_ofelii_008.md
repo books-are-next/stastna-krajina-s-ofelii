@@ -3,6 +3,8 @@ title: Melodie štětců
 contentType: prose
 ---
 
+<section>
+
 Pro lásky mrtvých malířů  
      jsem se narodila  
      pro lásky bestií  
@@ -20,3 +22,5 @@ A děti
 Další a další běsi  
 Ti na plátnech trvají  
 A já mezi nimi ubývám
+
+</section>

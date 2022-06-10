@@ -3,6 +3,8 @@ title: Voněl
 contentType: prose
 ---
 
+<section>
+
 Voněl jako mokrá hlína  
      saze  
      a bolestivá menstruace  
@@ -18,3 +20,5 @@ _„Potom se,
      každý jiným směrem,  
      dívali do písku  
      a nadmíru se styděli.“_
+
+</section>

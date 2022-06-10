@@ -3,6 +3,8 @@ title: Stavidla
 contentType: prose
 ---
 
+<section>
+
 Viděla jsem  
      jak povolila stavidla  
      a pět tisíc ryb  
@@ -12,3 +14,5 @@ Na druhém břehu
      stála něčí matka  
      a s vážnou tváří  
      chystala udici
+
+</section>
