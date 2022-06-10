@@ -3,6 +3,8 @@ title: Roční doby
 contentType: prose
 ---
 
+<section>
+
 Jaro zachřestí náramky  
      a s nečekanou chutí  
      naváže na rozpálené krby  
@@ -17,13 +19,17 @@ Sukně bezděčným pohybem
      ruka na okamžik ustrne v pohybu  
      a zlehka vklouzne mezi ně
 
-  
+</section>
+
+<section>
 
 Žena mívá svatozář  
      z granátových jablek  
      a ústa stejná
 
-  
+</section>
+
+<section>
 
 Po sklizni zakloní hlavu  
      pomalu přehodí nohu přes nohu  
@@ -32,3 +38,5 @@ Krátce
 Lačně  
 Muž se dívá  
 Z uvězněné ruky odchází cit
+
+</section>

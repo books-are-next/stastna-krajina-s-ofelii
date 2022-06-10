@@ -3,7 +3,7 @@ title: Máš to
 contentType: prose
 ---
 
-  
+<section>
 
 Máš to zlé  
 Už i hrnce mají tvoji podobu  
@@ -11,7 +11,11 @@ Už i hrnce mají tvoji podobu
      ti prohmatávají břicho  
 Po trošce červené hlíny
 
-  
+</section>
+
+<section>
 
 Dva kusy  
      toho v tobě našli
+
+</section>

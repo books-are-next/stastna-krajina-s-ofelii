@@ -3,6 +3,8 @@ title: Klekání pro holuby
 contentType: prose
 ---
 
+<section>
+
 Můj milý rozmilý jazyk má napadrť  
      napadrť naruby smějte se holubi  
 Žilou si protekl jazykem vyskočil  
@@ -22,3 +24,5 @@ Vemte ho zobáky do větru rozneste
      já půjdu posbírat co zbude na cestě  
 Na cestě ani ta hořkost mi nezbyla  
      pro lítost holubí že jsem ho zabila
+
+</section>

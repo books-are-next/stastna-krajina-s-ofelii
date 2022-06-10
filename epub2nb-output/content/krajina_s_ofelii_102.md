@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 **Marie Šťastná**
 
 **Krajina s Ofélií**
@@ -20,3 +22,5 @@ V MKP 1. vydání
 Verze 1.0 z 3. 3. 2017
 
 ISBN 978-80-7532-678-2 (epub)
+
+</section>

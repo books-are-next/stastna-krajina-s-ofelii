@@ -3,6 +3,8 @@ title: Pandora
 contentType: prose
 ---
 
+<section>
+
 Je ospalá  
 A přece nechce zavřít oči  
      a kávu odmítá  
@@ -14,3 +16,5 @@ V hlavě nevídaný hukot
      tisíců sladkých dělnic  
      malých jako ona jen smrtelnějších  
      po kávě s medem
+
+</section>

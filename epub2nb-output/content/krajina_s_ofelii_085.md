@@ -3,6 +3,8 @@ title: Šípkový čaj
 contentType: prose
 ---
 
+<section>
+
 Štěstí dnes přeje milenkám herců  
      s přehledem vyhrávajícím  
      nad červení šípků u trati  
@@ -15,3 +17,5 @@ V článcích bulvárních plátků
 
 A u trati  
      šípky zhnědnou k nepoznání
+
+</section>

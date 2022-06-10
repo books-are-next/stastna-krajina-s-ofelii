@@ -3,7 +3,7 @@ title: Mokře barbarsky
 contentType: prose
 ---
 
-  
+<section>
 
 Mokře barbarsky  
      ale něžně  
@@ -13,3 +13,5 @@ Mokře barbarsky
 Posadila jsem ji na čestné místo  
      a obě jsme se chvilku  
      jenom dívaly
+
+</section>

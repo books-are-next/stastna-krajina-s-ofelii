@@ -3,6 +3,8 @@ title: Ohlédnutí
 contentType: prose
 ---
 
+<section>
+
 Ustrnutí před bílým plátnem současnosti  
 Vystouplé obrysy lidských těl  
      hmatem čteš bez barev  
@@ -11,3 +13,5 @@ Vystouplé obrysy lidských těl
      v jednotném rytmu  
 Výstava cudnosti  
      uspěchané jak polední pauza
+
+</section>

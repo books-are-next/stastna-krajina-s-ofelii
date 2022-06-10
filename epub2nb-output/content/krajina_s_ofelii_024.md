@@ -3,6 +3,8 @@ title: Jestli mě chceš
 contentType: prose
 ---
 
+<section>
+
 Jestli mě chceš  
      hmátni po mně levou rukou  
      tou slabší  
@@ -15,3 +17,5 @@ Rytmické zaříkávání do tebe
      na rohožce kotví úspěch  
 Tvrdím měkce zůstaň stát  
      ráda tě vidím
+
+</section>

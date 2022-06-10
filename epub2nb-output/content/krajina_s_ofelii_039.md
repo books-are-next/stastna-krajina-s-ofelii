@@ -3,6 +3,8 @@ title: Výslovnost a kroky
 contentType: prose
 ---
 
+<section>
+
 Nechci nic  
 Jen být dívkou  
      která se občas prohne v bocích  
@@ -12,3 +14,5 @@ Cvičím si výslovnost a kroky
 Valčík  
 Trylek  
 Choroba
+
+</section>

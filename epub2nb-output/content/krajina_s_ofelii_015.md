@@ -3,6 +3,8 @@ title: Jak plynou dny
 contentType: prose
 ---
 
+<section>
+
 Soudím podle tebe  
 Pokud to není nutné  
      nevycházím ven  
@@ -16,3 +18,5 @@ Potřetí přetínám uzel
      cítím tvé prsty na kůži  
      obvyklým stiskem  
 Tak plynou dny
+
+</section>

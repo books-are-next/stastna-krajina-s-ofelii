@@ -3,6 +3,8 @@ title: Rubensovy Grácie
 contentType: prose
 ---
 
+<section>
+
 Rubensovy Grácie snídají chřest  
      a pečeni  
 U třínohého stolu tři nahé ženy  
@@ -16,8 +18,12 @@ Mají obuté vysoké šněrovací boty
      a na židli po nich zůstane  
      upocený otisk
 
-  
+</section>
+
+<section>
 
 Vyprávějí o nocích stejně vlažných  
      a kluzkých  
 A všichni bez dechu naslouchají
+
+</section>

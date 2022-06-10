@@ -3,7 +3,7 @@ title: Po pravdě
 contentType: prose
 ---
 
-  
+<section>
 
 Ode dneška do zítřka  
      mě tahá Ariadnina nit  
@@ -16,3 +16,5 @@ Ze zatáček příjemně oblých
      a o konci nevím  
 Po pravdě se ukáže  
 A do ní čas
+
+</section>

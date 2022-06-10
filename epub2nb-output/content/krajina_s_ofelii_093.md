@@ -3,6 +3,8 @@ title: Sny
 contentType: prose
 ---
 
+<section>
+
 Jak odcházejí v té tmě  
      dávivé a vleklé  
      bez ohonu žádostivosti  
@@ -13,9 +15,13 @@ Jednohubky snů s čerstvou pažitkou
 
 A v nich se dávám
 
-  
+</section>
+
+<section>
 
 V paměti utkvívají  
      očima nafocené snímky neřestí  
 Mezi stehna noci šátrání  
      slabého ptáčete vypadlého z hnízda
+
+</section>

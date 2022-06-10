@@ -3,6 +3,8 @@ title: Lolita
 contentType: prose
 ---
 
+<section>
+
 Nádhera letící sopky  
 Bere s sebou kus země  
      plastové lahve  
@@ -13,7 +15,9 @@ Má krásné nohy
      pod stolem  
      dlouhé k bolení
 
-  
+</section>
+
+<section>
 
 Včera se procházela po náměstí  
      a okenní tabule praskaly  
@@ -23,7 +27,11 @@ Překypovala hmatem a čichem
      s hlavou vystrčenou  
      do řevu pohlaví
 
-  
+</section>
+
+<section>
 
 Jedna její noha nesla mládí  
      druhá boky
+
+</section>

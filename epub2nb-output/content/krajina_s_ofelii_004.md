@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla Krajina s Ofélií tak, jak bylo vydáno Klubem rodáků a přátel Kutné Hory v roce 2003 (ŠŤASTNÁ, Marie. _Krajina s Ofélií_. Kutná Hora: Klub rodáků a přátel Kutné Hory, 2003. 106 s. Knižnice Ortenovy Kutné Hory - První knížky, sv. 3.).
 
 * * *
@@ -28,3 +30,5 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 * * *
 
 Verze 1.0 z 3. 3. 2017.
+
+</section>

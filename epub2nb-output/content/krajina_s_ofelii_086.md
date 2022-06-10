@@ -3,6 +3,8 @@ title: Rut
 contentType: prose
 ---
 
+<section>
+
 Sklízím žito rovnodennosti  
 Každý sekáč dlouhý krok  
      jen já jim to kazím  
@@ -12,3 +14,5 @@ Mezi snopy sbírat zbylé klasy
      a nespoléhat na Boaze  
      kteří schválně nechávají  
      obilí ležet
+
+</section>

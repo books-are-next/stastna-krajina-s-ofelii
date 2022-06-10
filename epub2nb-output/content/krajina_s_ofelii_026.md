@@ -3,6 +3,8 @@ title: Požitky
 contentType: prose
 ---
 
+<section>
+
 V nedbalkách  
      chodím otevírat kočce  
      trochu lhostejně  
@@ -19,3 +21,5 @@ Za chutí mléka vlažným
 Ještě u snídaně slyším  
      jak o dveře mlátí  
      uzpívaná lítost
+
+</section>

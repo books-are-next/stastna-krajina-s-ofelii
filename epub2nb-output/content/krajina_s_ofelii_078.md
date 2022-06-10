@@ -3,6 +3,8 @@ title: Plesová sezóna
 contentType: prose
 ---
 
+<section>
+
 Na podzim zbývá z listu  
      síťka na vlasy  
      když dlouho leží v kaluži  
@@ -17,3 +19,5 @@ Vytrvalé je podzimní krášlení
 Plesová sezóna za rohem  
      a v nízkých botkách  
      začíná být zima
+
+</section>

@@ -3,6 +3,8 @@ title: Nelásky
 contentType: prose
 ---
 
+<section>
+
 Zastavím se uprostřed těla  
      a vlezlá neláska mě předběhne  
      jako na kolotoči  
@@ -14,3 +16,5 @@ Dnes hloupne pod balkónem
      zítra vejde hlavními dveřmi  
      zcela samozřejmě  
      o noc lhostejnější
+
+</section>

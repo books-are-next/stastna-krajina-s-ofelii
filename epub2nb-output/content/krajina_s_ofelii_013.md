@@ -3,6 +3,8 @@ title: Dívenka z předměstí
 contentType: prose
 ---
 
+<section>
+
 Dívenka z předměstí  
      si drží na ňadrech dlaně  
 Ještě to umí tvářit se vlídně  
@@ -17,3 +19,5 @@ Ale kdybys věděl
      jak to vůbec všechno bolí
 
      nedíval by ses na ni tak zpříma
+
+</section>

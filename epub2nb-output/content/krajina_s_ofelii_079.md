@@ -3,6 +3,8 @@ title: Dáma se posadí
 contentType: prose
 ---
 
+<section>
+
 Dáma se posadí  
 Ano  
 Lastury v negližé  
@@ -18,7 +20,9 @@ Baví se pohybem
      pán dělá prostocviky  
      pro její potěšení
 
-  
+</section>
+
+<section>
 
 Dáma se posadí  
 Ano  
@@ -28,3 +32,5 @@ U olejových lamp
 Po kávě zbude  
      kolečko na ubruse  
 Zákusek
+
+</section>

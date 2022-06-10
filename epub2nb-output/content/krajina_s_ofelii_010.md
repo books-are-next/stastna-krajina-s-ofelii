@@ -3,6 +3,8 @@ title: Rytmy
 contentType: prose
 ---
 
+<section>
+
 Vrací se ke hrám veršotepci  
      rytmus života a umírání  
      ve lžích pravdách  
@@ -11,3 +13,5 @@ Vrací se ke hrám veršotepci
      tep  
      soulože  
      stále týž
+
+</section>

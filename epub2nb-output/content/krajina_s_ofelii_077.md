@@ -3,7 +3,7 @@ title: 'Francis Picabia: Španělská noc'
 contentType: prose
 ---
 
-  
+<section>
 
 On:  
 S uchem na bílém terči  
@@ -14,7 +14,11 @@ S uchem na bílém terči
      k ránu mé boky obejme  
      vítězná šerpa tvých nohou
 
-  
+</section>
+
+<section>
 
 Ona:  
 K smíchu
+
+</section>

@@ -3,6 +3,8 @@ title: Hejna
 contentType: prose
 ---
 
+<section>
+
 Ptáci dlouhým letem  
      si tě pamatují  
 Ptáci jako já po tisíc let  
@@ -12,3 +14,5 @@ Paměť křídel
      co nikdy neuslyšíš
 
 Hejna táhnou
+
+</section>

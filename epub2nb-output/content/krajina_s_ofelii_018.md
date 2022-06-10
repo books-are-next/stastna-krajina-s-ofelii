@@ -3,6 +3,8 @@ title: Pohádkáři
 contentType: prose
 ---
 
+<section>
+
 Kdo chce vyprávět  
      – to je tam  
      daleko  
@@ -18,8 +20,12 @@ Kdo chce vyprávět
      jak chutná křik  
      slíznutý z bříšek prstů
 
-  
+</section>
+
+<section>
 
 Pohádkáři chodí naslepo ulicemi  
      a matky dětem  
      příliš často myjí ruce
+
+</section>

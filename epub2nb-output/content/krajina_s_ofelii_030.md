@@ -3,6 +3,8 @@ title: Myrrha
 contentType: prose
 ---
 
+<section>
+
 Muž který mě miloval  
      byl můj otec  
      stále na to myslím  
@@ -16,3 +18,5 @@ To hladce známé tělo od mala
      šeptám ti do ucha  
      tresty nepřicházejí hned  
      až potom
+
+</section>
