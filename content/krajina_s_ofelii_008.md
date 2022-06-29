@@ -1,6 +1,6 @@
 ---
 title: Melodie štětců
-contentType: prose
+contentType: poetry
 ---
 
 <section>

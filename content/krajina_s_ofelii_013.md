@@ -1,6 +1,6 @@
 ---
 title: Dívenka z předměstí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

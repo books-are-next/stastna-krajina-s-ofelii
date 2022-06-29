@@ -1,6 +1,6 @@
 ---
 title: Pandora
-contentType: prose
+contentType: poetry
 ---
 
 <section>

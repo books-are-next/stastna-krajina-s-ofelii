@@ -1,6 +1,6 @@
 ---
 title: Místo snídaně
-contentType: prose
+contentType: poetry
 ---
 
 <section>

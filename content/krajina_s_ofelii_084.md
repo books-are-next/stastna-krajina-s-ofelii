@@ -1,6 +1,6 @@
 ---
 title: Hejna
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Rut
-contentType: prose
+contentType: poetry
 ---
 
 <section>

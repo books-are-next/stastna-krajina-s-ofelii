@@ -1,6 +1,6 @@
 ---
 title: Výslovnost a kroky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Na mříži
-contentType: prose
+contentType: poetry
 ---
 
 <section>

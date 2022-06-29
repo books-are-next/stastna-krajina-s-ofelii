@@ -1,6 +1,6 @@
 ---
 title: Jarní tíha
-contentType: prose
+contentType: poetry
 ---
 
 <section>

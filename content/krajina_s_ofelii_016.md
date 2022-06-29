@@ -1,6 +1,6 @@
 ---
 title: Trubadúrská
-contentType: prose
+contentType: poetry
 ---
 
 <section>

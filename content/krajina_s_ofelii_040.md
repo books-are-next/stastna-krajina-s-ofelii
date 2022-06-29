@@ -1,6 +1,6 @@
 ---
 title: Vyplázla jazyk
-contentType: prose
+contentType: poetry
 ---
 
 <section>

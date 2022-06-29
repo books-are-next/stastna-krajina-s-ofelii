@@ -1,6 +1,6 @@
 ---
 title: Za ocas
-contentType: prose
+contentType: poetry
 ---
 
 <section>

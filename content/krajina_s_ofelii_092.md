@@ -1,6 +1,6 @@
 ---
 title: Výstřihy
-contentType: prose
+contentType: poetry
 ---
 
 <section>

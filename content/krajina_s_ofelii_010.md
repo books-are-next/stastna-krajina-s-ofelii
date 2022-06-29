@@ -1,6 +1,6 @@
 ---
 title: Rytmy
-contentType: prose
+contentType: poetry
 ---
 
 <section>

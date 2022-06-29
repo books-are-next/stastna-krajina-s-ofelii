@@ -1,6 +1,6 @@
 ---
 title: Mezihra
-contentType: prose
+contentType: poetry
 ---
 
 <section>

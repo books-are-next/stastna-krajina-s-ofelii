@@ -1,6 +1,6 @@
 ---
 title: Kapka XVII\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>

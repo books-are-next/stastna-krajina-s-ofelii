@@ -1,6 +1,6 @@
 ---
 title: Jestli mě chceš
-contentType: prose
+contentType: poetry
 ---
 
 <section>

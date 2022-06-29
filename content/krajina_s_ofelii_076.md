@@ -1,6 +1,6 @@
 ---
 title: Příchutě
-contentType: prose
+contentType: poetry
 ---
 
 <section>

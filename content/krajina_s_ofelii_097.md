@@ -1,6 +1,6 @@
 ---
 title: Kaleidoskop
-contentType: prose
+contentType: poetry
 ---
 
 <section>

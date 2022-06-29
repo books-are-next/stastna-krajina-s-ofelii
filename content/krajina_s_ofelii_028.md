@@ -1,6 +1,6 @@
 ---
 title: Kočičky 2000
-contentType: prose
+contentType: poetry
 ---
 
 <section>

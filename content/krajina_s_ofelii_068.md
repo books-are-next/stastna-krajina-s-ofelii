@@ -1,6 +1,6 @@
 ---
 title: Až mě potkáš
-contentType: prose
+contentType: poetry
 ---
 
 <section>

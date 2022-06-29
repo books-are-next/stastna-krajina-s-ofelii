@@ -1,6 +1,6 @@
 ---
 title: Pro G\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>

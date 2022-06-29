@@ -1,6 +1,6 @@
 ---
 title: Mezi jarem a podzimem
-contentType: prose
+contentType: poetry
 ---
 
 <section>

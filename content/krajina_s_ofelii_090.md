@@ -1,6 +1,6 @@
 ---
 title: Dvakrát
-contentType: prose
+contentType: poetry
 ---
 
 <section>

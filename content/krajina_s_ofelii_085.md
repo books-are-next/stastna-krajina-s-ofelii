@@ -1,6 +1,6 @@
 ---
 title: Šípkový čaj
-contentType: prose
+contentType: poetry
 ---
 
 <section>

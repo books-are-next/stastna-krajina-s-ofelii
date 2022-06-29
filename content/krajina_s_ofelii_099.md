@@ -1,6 +1,6 @@
 ---
 title: Bez názvu
-contentType: prose
+contentType: poetry
 ---
 
 <section>

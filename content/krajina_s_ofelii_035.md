@@ -1,6 +1,6 @@
 ---
 title: Oidipus
-contentType: prose
+contentType: poetry
 ---
 
 <section>

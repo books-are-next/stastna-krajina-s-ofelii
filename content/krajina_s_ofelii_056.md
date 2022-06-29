@@ -1,6 +1,6 @@
 ---
 title: Mokře barbarsky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

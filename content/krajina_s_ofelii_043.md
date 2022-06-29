@@ -1,6 +1,6 @@
 ---
 title: Kapka XXV\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>

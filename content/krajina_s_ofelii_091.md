@@ -1,6 +1,6 @@
 ---
 title: Dotýkání
-contentType: prose
+contentType: poetry
 ---
 
 <section>

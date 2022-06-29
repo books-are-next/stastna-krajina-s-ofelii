@@ -1,6 +1,6 @@
 ---
 title: Klekání pro holuby
-contentType: prose
+contentType: poetry
 ---
 
 <section>

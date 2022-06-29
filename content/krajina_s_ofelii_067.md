@@ -1,6 +1,6 @@
 ---
 title: Stavidla
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Ukolébavka
-contentType: prose
+contentType: poetry
 ---
 
 <section>

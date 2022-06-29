@@ -1,6 +1,6 @@
 ---
 title: Sny
-contentType: prose
+contentType: poetry
 ---
 
 <section>

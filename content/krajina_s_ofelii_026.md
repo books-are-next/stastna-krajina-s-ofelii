@@ -1,6 +1,6 @@
 ---
 title: Požitky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

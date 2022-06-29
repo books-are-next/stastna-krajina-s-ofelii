@@ -1,6 +1,6 @@
 ---
 title: Voněl
-contentType: prose
+contentType: poetry
 ---
 
 <section>

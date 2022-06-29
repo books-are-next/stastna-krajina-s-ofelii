@@ -1,6 +1,6 @@
 ---
 title: Hořící město
-contentType: prose
+contentType: poetry
 ---
 
 <section>

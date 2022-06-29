@@ -1,6 +1,6 @@
 ---
 title: Bilanční
-contentType: prose
+contentType: poetry
 ---
 
 <section>

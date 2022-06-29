@@ -1,6 +1,6 @@
 ---
 title: Habanera
-contentType: prose
+contentType: poetry
 ---
 
 <section>

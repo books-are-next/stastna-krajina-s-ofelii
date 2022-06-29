@@ -1,6 +1,6 @@
 ---
 title: Tango
-contentType: prose
+contentType: poetry
 ---
 
 <section>

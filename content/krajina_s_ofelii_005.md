@@ -1,6 +1,6 @@
 ---
 title: Dnešní Ofélie
-contentType: prose
+contentType: poetry
 ---
 
 <section>

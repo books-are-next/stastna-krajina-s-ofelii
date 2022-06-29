@@ -1,6 +1,6 @@
 ---
 title: Čaj s citrónem
-contentType: prose
+contentType: poetry
 ---
 
 <section>

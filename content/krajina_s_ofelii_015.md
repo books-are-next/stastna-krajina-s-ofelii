@@ -1,6 +1,6 @@
 ---
 title: Jak plynou dny
-contentType: prose
+contentType: poetry
 ---
 
 <section>

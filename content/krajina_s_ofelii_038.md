@@ -1,6 +1,6 @@
 ---
 title: Dárek
-contentType: prose
+contentType: poetry
 ---
 
 <section>

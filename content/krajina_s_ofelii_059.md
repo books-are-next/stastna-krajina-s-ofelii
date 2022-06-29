@@ -1,6 +1,6 @@
 ---
 title: Amnonova modlitba
-contentType: prose
+contentType: poetry
 ---
 
 <section>

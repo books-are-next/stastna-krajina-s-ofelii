@@ -1,6 +1,6 @@
 ---
 title: O Roxaně
-contentType: prose
+contentType: poetry
 ---
 
 <section>

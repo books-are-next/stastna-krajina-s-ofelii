@@ -1,6 +1,6 @@
 ---
 title: O času
-contentType: prose
+contentType: poetry
 ---
 
 <section>

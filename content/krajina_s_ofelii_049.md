@@ -1,6 +1,6 @@
 ---
 title: Potajmu
-contentType: prose
+contentType: poetry
 ---
 
 <section>

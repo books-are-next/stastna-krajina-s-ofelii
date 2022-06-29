@@ -1,6 +1,6 @@
 ---
 title: Rubensovy Grácie
-contentType: prose
+contentType: poetry
 ---
 
 <section>
