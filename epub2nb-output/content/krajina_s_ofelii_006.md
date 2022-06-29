@@ -1,6 +1,6 @@
 ---
 title: Kapka IX\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>

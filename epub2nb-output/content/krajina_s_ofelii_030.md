@@ -1,6 +1,6 @@
 ---
 title: Myrrha
-contentType: prose
+contentType: poetry
 ---
 
 <section>

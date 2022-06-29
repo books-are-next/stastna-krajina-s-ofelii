@@ -1,6 +1,6 @@
 ---
 title: Pláž
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Maličkosti
-contentType: prose
+contentType: poetry
 ---
 
 <section>

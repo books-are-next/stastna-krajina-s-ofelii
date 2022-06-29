@@ -1,6 +1,6 @@
 ---
 title: Ohlédnutí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

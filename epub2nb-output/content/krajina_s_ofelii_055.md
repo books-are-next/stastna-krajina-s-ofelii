@@ -1,6 +1,6 @@
 ---
 title: Protimluv
-contentType: prose
+contentType: poetry
 ---
 
 <section>

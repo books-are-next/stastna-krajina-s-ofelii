@@ -1,6 +1,6 @@
 ---
 title: Porážka
-contentType: prose
+contentType: poetry
 ---
 
 <section>

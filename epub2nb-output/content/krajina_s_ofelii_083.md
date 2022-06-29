@@ -1,6 +1,6 @@
 ---
 title: Zírání
-contentType: prose
+contentType: poetry
 ---
 
 <section>

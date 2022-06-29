@@ -1,6 +1,6 @@
 ---
 title: Plesová sezóna
-contentType: prose
+contentType: poetry
 ---
 
 <section>

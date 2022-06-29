@@ -1,6 +1,6 @@
 ---
 title: Apokryf
-contentType: prose
+contentType: poetry
 ---
 
 <section>

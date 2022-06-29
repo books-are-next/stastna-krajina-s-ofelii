@@ -1,6 +1,6 @@
 ---
 title: Královská hra
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Záchytné body
-contentType: prose
+contentType: poetry
 ---
 
 <section>

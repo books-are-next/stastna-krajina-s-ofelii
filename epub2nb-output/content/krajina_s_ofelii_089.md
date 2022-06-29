@@ -1,6 +1,6 @@
 ---
 title: Krasobruslař
-contentType: prose
+contentType: poetry
 ---
 
 <section>

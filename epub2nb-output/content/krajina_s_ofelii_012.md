@@ -1,6 +1,6 @@
 ---
 title: Zase až v létě
-contentType: prose
+contentType: poetry
 ---
 
 <section>

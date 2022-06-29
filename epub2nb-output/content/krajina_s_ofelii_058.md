@@ -1,6 +1,6 @@
 ---
 title: Mé ruce
-contentType: prose
+contentType: poetry
 ---
 
 <section>

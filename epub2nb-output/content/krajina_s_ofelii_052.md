@@ -1,6 +1,6 @@
 ---
 title: Mistr
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Je to ale
-contentType: prose
+contentType: poetry
 ---
 
 <section>

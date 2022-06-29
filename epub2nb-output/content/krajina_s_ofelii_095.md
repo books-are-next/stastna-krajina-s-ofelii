@@ -1,6 +1,6 @@
 ---
 title: 'Vincent Van Gogh: Rozsévač'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

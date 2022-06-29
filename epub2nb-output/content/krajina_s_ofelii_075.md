@@ -1,6 +1,6 @@
 ---
 title: Máš to
-contentType: prose
+contentType: poetry
 ---
 
 <section>

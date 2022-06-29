@@ -1,6 +1,6 @@
 ---
 title: 'Paul Gauguin: Copak, žárlíš?'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

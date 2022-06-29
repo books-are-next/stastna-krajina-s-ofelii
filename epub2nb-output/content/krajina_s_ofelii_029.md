@@ -1,6 +1,6 @@
 ---
 title: Kapka XVIII\.
-contentType: prose
+contentType: poetry
 ---
 
 <section>

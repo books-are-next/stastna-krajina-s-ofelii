@@ -1,6 +1,6 @@
 ---
 title: 'Igor Kitzberger: Malé gesto'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: 'Francis Picabia: Španělská noc'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

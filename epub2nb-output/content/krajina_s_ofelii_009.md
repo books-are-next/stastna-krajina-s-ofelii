@@ -1,6 +1,6 @@
 ---
 title: Pohyby
-contentType: prose
+contentType: poetry
 ---
 
 <section>

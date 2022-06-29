@@ -1,0 +1,2104 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Krajina s Ofélií",
+  "author": "Marie Šťastná",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "stastna-krajina-s-ofelii-8907b8a",
+  "revision": "8907b8a",
+  "readingOrder": [
+    "promo.html",
+    "krajina_s_ofelii_005.html",
+    "krajina_s_ofelii_006.html",
+    "krajina_s_ofelii_007.html",
+    "krajina_s_ofelii_008.html",
+    "krajina_s_ofelii_009.html",
+    "krajina_s_ofelii_010.html",
+    "krajina_s_ofelii_011.html",
+    "krajina_s_ofelii_012.html",
+    "krajina_s_ofelii_013.html",
+    "krajina_s_ofelii_014.html",
+    "krajina_s_ofelii_015.html",
+    "krajina_s_ofelii_016.html",
+    "krajina_s_ofelii_017.html",
+    "krajina_s_ofelii_018.html",
+    "krajina_s_ofelii_019.html",
+    "krajina_s_ofelii_020.html",
+    "krajina_s_ofelii_021.html",
+    "krajina_s_ofelii_022.html",
+    "krajina_s_ofelii_023.html",
+    "krajina_s_ofelii_024.html",
+    "krajina_s_ofelii_025.html",
+    "krajina_s_ofelii_026.html",
+    "krajina_s_ofelii_027.html",
+    "krajina_s_ofelii_028.html",
+    "krajina_s_ofelii_029.html",
+    "krajina_s_ofelii_030.html",
+    "krajina_s_ofelii_031.html",
+    "krajina_s_ofelii_032.html",
+    "krajina_s_ofelii_033.html",
+    "krajina_s_ofelii_034.html",
+    "krajina_s_ofelii_035.html",
+    "krajina_s_ofelii_036.html",
+    "krajina_s_ofelii_037.html",
+    "krajina_s_ofelii_038.html",
+    "krajina_s_ofelii_039.html",
+    "krajina_s_ofelii_040.html",
+    "krajina_s_ofelii_041.html",
+    "krajina_s_ofelii_042.html",
+    "krajina_s_ofelii_043.html",
+    "krajina_s_ofelii_044.html",
+    "krajina_s_ofelii_045.html",
+    "krajina_s_ofelii_046.html",
+    "krajina_s_ofelii_047.html",
+    "krajina_s_ofelii_048.html",
+    "krajina_s_ofelii_049.html",
+    "krajina_s_ofelii_050.html",
+    "krajina_s_ofelii_051.html",
+    "krajina_s_ofelii_052.html",
+    "krajina_s_ofelii_053.html",
+    "krajina_s_ofelii_054.html",
+    "krajina_s_ofelii_055.html",
+    "krajina_s_ofelii_056.html",
+    "krajina_s_ofelii_057.html",
+    "krajina_s_ofelii_058.html",
+    "krajina_s_ofelii_059.html",
+    "krajina_s_ofelii_060.html",
+    "krajina_s_ofelii_061.html",
+    "krajina_s_ofelii_062.html",
+    "krajina_s_ofelii_063.html",
+    "krajina_s_ofelii_064.html",
+    "krajina_s_ofelii_065.html",
+    "krajina_s_ofelii_066.html",
+    "krajina_s_ofelii_067.html",
+    "krajina_s_ofelii_068.html",
+    "krajina_s_ofelii_069.html",
+    "krajina_s_ofelii_070.html",
+    "krajina_s_ofelii_071.html",
+    "krajina_s_ofelii_072.html",
+    "krajina_s_ofelii_073.html",
+    "krajina_s_ofelii_074.html",
+    "krajina_s_ofelii_075.html",
+    "krajina_s_ofelii_076.html",
+    "krajina_s_ofelii_077.html",
+    "krajina_s_ofelii_078.html",
+    "krajina_s_ofelii_079.html",
+    "krajina_s_ofelii_080.html",
+    "krajina_s_ofelii_081.html",
+    "krajina_s_ofelii_082.html",
+    "krajina_s_ofelii_083.html",
+    "krajina_s_ofelii_084.html",
+    "krajina_s_ofelii_085.html",
+    "krajina_s_ofelii_086.html",
+    "krajina_s_ofelii_087.html",
+    "krajina_s_ofelii_088.html",
+    "krajina_s_ofelii_089.html",
+    "krajina_s_ofelii_090.html",
+    "krajina_s_ofelii_091.html",
+    "krajina_s_ofelii_092.html",
+    "krajina_s_ofelii_093.html",
+    "krajina_s_ofelii_094.html",
+    "krajina_s_ofelii_095.html",
+    "krajina_s_ofelii_096.html",
+    "krajina_s_ofelii_097.html",
+    "krajina_s_ofelii_098.html",
+    "krajina_s_ofelii_099.html",
+    "krajina_s_ofelii_100.html",
+    "krajina_s_ofelii_101.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Wed Jun 29 2022 09:57:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656496639887
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "krajina_s_ofelii_005.html",
+      "toc": []
+    },
+    {
+      "title": "Dnešní Ofélie",
+      "file": "krajina_s_ofelii_005.html",
+      "words": 23,
+      "chars": 122,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "krajina_s_ofelii_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dnešní Ofélie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapka IX.",
+      "file": "krajina_s_ofelii_006.html",
+      "words": 29,
+      "chars": 164,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 2,
+      "prev": "krajina_s_ofelii_005.html",
+      "next": "krajina_s_ofelii_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapka IX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zarůstání",
+      "file": "krajina_s_ofelii_007.html",
+      "words": 30,
+      "chars": 171,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 3,
+      "prev": "krajina_s_ofelii_006.html",
+      "next": "krajina_s_ofelii_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zarůstání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Melodie štětců",
+      "file": "krajina_s_ofelii_008.html",
+      "words": 54,
+      "chars": 294,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 4,
+      "prev": "krajina_s_ofelii_007.html",
+      "next": "krajina_s_ofelii_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Melodie štětců",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohyby",
+      "file": "krajina_s_ofelii_009.html",
+      "words": 61,
+      "chars": 297,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 5,
+      "prev": "krajina_s_ofelii_008.html",
+      "next": "krajina_s_ofelii_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohyby",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rytmy",
+      "file": "krajina_s_ofelii_010.html",
+      "words": 20,
+      "chars": 112,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 6,
+      "prev": "krajina_s_ofelii_009.html",
+      "next": "krajina_s_ofelii_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rytmy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Roční doby",
+      "file": "krajina_s_ofelii_011.html",
+      "words": 83,
+      "chars": 440,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 7,
+      "prev": "krajina_s_ofelii_010.html",
+      "next": "krajina_s_ofelii_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Roční doby",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zase až v létě",
+      "file": "krajina_s_ofelii_012.html",
+      "words": 49,
+      "chars": 266,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 8,
+      "prev": "krajina_s_ofelii_011.html",
+      "next": "krajina_s_ofelii_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zase až v létě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dívenka z předměstí",
+      "file": "krajina_s_ofelii_013.html",
+      "words": 53,
+      "chars": 285,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 9,
+      "prev": "krajina_s_ofelii_012.html",
+      "next": "krajina_s_ofelii_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dívenka z předměstí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Maličkosti",
+      "file": "krajina_s_ofelii_014.html",
+      "words": 38,
+      "chars": 212,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 10,
+      "prev": "krajina_s_ofelii_013.html",
+      "next": "krajina_s_ofelii_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Maličkosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak plynou dny",
+      "file": "krajina_s_ofelii_015.html",
+      "words": 42,
+      "chars": 235,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 11,
+      "prev": "krajina_s_ofelii_014.html",
+      "next": "krajina_s_ofelii_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak plynou dny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Trubadúrská",
+      "file": "krajina_s_ofelii_016.html",
+      "words": 35,
+      "chars": 195,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 12,
+      "prev": "krajina_s_ofelii_015.html",
+      "next": "krajina_s_ofelii_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Trubadúrská",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapka XVII.",
+      "file": "krajina_s_ofelii_017.html",
+      "words": 31,
+      "chars": 157,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 13,
+      "prev": "krajina_s_ofelii_016.html",
+      "next": "krajina_s_ofelii_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapka XVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohádkáři",
+      "file": "krajina_s_ofelii_018.html",
+      "words": 52,
+      "chars": 289,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 14,
+      "prev": "krajina_s_ofelii_017.html",
+      "next": "krajina_s_ofelii_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohádkáři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pandora",
+      "file": "krajina_s_ofelii_019.html",
+      "words": 41,
+      "chars": 227,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 15,
+      "prev": "krajina_s_ofelii_018.html",
+      "next": "krajina_s_ofelii_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pandora",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Igor Kitzberger: Malé gesto",
+      "file": "krajina_s_ofelii_020.html",
+      "words": 28,
+      "chars": 168,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 16,
+      "prev": "krajina_s_ofelii_019.html",
+      "next": "krajina_s_ofelii_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Igor Kitzberger: Malé gesto",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nelásky",
+      "file": "krajina_s_ofelii_021.html",
+      "words": 44,
+      "chars": 261,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 17,
+      "prev": "krajina_s_ofelii_020.html",
+      "next": "krajina_s_ofelii_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nelásky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O Roxaně",
+      "file": "krajina_s_ofelii_022.html",
+      "words": 41,
+      "chars": 213,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 18,
+      "prev": "krajina_s_ofelii_021.html",
+      "next": "krajina_s_ofelii_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O Roxaně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jarní tíha",
+      "file": "krajina_s_ofelii_023.html",
+      "words": 29,
+      "chars": 154,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 19,
+      "prev": "krajina_s_ofelii_022.html",
+      "next": "krajina_s_ofelii_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jarní tíha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jestli mě chceš",
+      "file": "krajina_s_ofelii_024.html",
+      "words": 47,
+      "chars": 253,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 20,
+      "prev": "krajina_s_ofelii_023.html",
+      "next": "krajina_s_ofelii_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jestli mě chceš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Marc Chagall: Já a vesnice",
+      "file": "krajina_s_ofelii_025.html",
+      "words": 44,
+      "chars": 228,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 21,
+      "prev": "krajina_s_ofelii_024.html",
+      "next": "krajina_s_ofelii_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Marc Chagall: Já a vesnice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Požitky",
+      "file": "krajina_s_ofelii_026.html",
+      "words": 53,
+      "chars": 298,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 22,
+      "prev": "krajina_s_ofelii_025.html",
+      "next": "krajina_s_ofelii_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Požitky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Co se mi stalo zlého",
+      "file": "krajina_s_ofelii_027.html",
+      "words": 33,
+      "chars": 152,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 23,
+      "prev": "krajina_s_ofelii_026.html",
+      "next": "krajina_s_ofelii_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Co se mi stalo zlého",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kočičky 2000",
+      "file": "krajina_s_ofelii_028.html",
+      "words": 42,
+      "chars": 240,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 24,
+      "prev": "krajina_s_ofelii_027.html",
+      "next": "krajina_s_ofelii_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kočičky 2000",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapka XVIII.",
+      "file": "krajina_s_ofelii_029.html",
+      "words": 48,
+      "chars": 259,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 25,
+      "prev": "krajina_s_ofelii_028.html",
+      "next": "krajina_s_ofelii_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapka XVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Myrrha",
+      "file": "krajina_s_ofelii_030.html",
+      "words": 46,
+      "chars": 229,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 26,
+      "prev": "krajina_s_ofelii_029.html",
+      "next": "krajina_s_ofelii_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Myrrha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mezihra",
+      "file": "krajina_s_ofelii_031.html",
+      "words": 25,
+      "chars": 138,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 27,
+      "prev": "krajina_s_ofelii_030.html",
+      "next": "krajina_s_ofelii_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mezihra",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pro G.",
+      "file": "krajina_s_ofelii_032.html",
+      "words": 60,
+      "chars": 320,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 28,
+      "prev": "krajina_s_ofelii_031.html",
+      "next": "krajina_s_ofelii_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pro G.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Místo snídaně",
+      "file": "krajina_s_ofelii_033.html",
+      "words": 38,
+      "chars": 208,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 29,
+      "prev": "krajina_s_ofelii_032.html",
+      "next": "krajina_s_ofelii_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Místo snídaně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na mříži",
+      "file": "krajina_s_ofelii_034.html",
+      "words": 50,
+      "chars": 270,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 30,
+      "prev": "krajina_s_ofelii_033.html",
+      "next": "krajina_s_ofelii_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na mříži",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Oidipus",
+      "file": "krajina_s_ofelii_035.html",
+      "words": 115,
+      "chars": 616,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 31,
+      "prev": "krajina_s_ofelii_034.html",
+      "next": "krajina_s_ofelii_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Oidipus",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Velký úklid",
+      "file": "krajina_s_ofelii_036.html",
+      "words": 27,
+      "chars": 182,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 32,
+      "prev": "krajina_s_ofelii_035.html",
+      "next": "krajina_s_ofelii_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Velký úklid",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Změna času",
+      "file": "krajina_s_ofelii_037.html",
+      "words": 37,
+      "chars": 167,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 33,
+      "prev": "krajina_s_ofelii_036.html",
+      "next": "krajina_s_ofelii_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Změna času",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dárek",
+      "file": "krajina_s_ofelii_038.html",
+      "words": 20,
+      "chars": 95,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 34,
+      "prev": "krajina_s_ofelii_037.html",
+      "next": "krajina_s_ofelii_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dárek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Výslovnost a kroky",
+      "file": "krajina_s_ofelii_039.html",
+      "words": 30,
+      "chars": 157,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 35,
+      "prev": "krajina_s_ofelii_038.html",
+      "next": "krajina_s_ofelii_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Výslovnost a kroky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vyplázla jazyk",
+      "file": "krajina_s_ofelii_040.html",
+      "words": 23,
+      "chars": 136,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 36,
+      "prev": "krajina_s_ofelii_039.html",
+      "next": "krajina_s_ofelii_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vyplázla jazyk",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Africké slunce",
+      "file": "krajina_s_ofelii_041.html",
+      "words": 44,
+      "chars": 267,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 37,
+      "prev": "krajina_s_ofelii_040.html",
+      "next": "krajina_s_ofelii_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Africké slunce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pláž",
+      "file": "krajina_s_ofelii_042.html",
+      "words": 39,
+      "chars": 193,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 38,
+      "prev": "krajina_s_ofelii_041.html",
+      "next": "krajina_s_ofelii_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pláž",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapka XXV.",
+      "file": "krajina_s_ofelii_043.html",
+      "words": 48,
+      "chars": 226,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 39,
+      "prev": "krajina_s_ofelii_042.html",
+      "next": "krajina_s_ofelii_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapka XXV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "krajina_s_ofelii_044.html",
+      "words": 43,
+      "chars": 206,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 40,
+      "prev": "krajina_s_ofelii_043.html",
+      "next": "krajina_s_ofelii_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rubensovy Grácie",
+      "file": "krajina_s_ofelii_045.html",
+      "words": 55,
+      "chars": 328,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 41,
+      "prev": "krajina_s_ofelii_044.html",
+      "next": "krajina_s_ofelii_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rubensovy Grácie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O času",
+      "file": "krajina_s_ofelii_046.html",
+      "words": 33,
+      "chars": 161,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 42,
+      "prev": "krajina_s_ofelii_045.html",
+      "next": "krajina_s_ofelii_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O času",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Voněl",
+      "file": "krajina_s_ofelii_047.html",
+      "words": 46,
+      "chars": 240,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 43,
+      "prev": "krajina_s_ofelii_046.html",
+      "next": "krajina_s_ofelii_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Voněl",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hořící město",
+      "file": "krajina_s_ofelii_048.html",
+      "words": 275,
+      "chars": 1481,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 44,
+      "prev": "krajina_s_ofelii_047.html",
+      "next": "krajina_s_ofelii_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hořící město",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Potajmu",
+      "file": "krajina_s_ofelii_049.html",
+      "words": 29,
+      "chars": 152,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 45,
+      "prev": "krajina_s_ofelii_048.html",
+      "next": "krajina_s_ofelii_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Potajmu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Veřejně I. (žena)",
+      "file": "krajina_s_ofelii_050.html",
+      "words": 27,
+      "chars": 156,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 46,
+      "prev": "krajina_s_ofelii_049.html",
+      "next": "krajina_s_ofelii_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Veřejně I. (žena)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Veřejně II. (muž)",
+      "file": "krajina_s_ofelii_051.html",
+      "words": 71,
+      "chars": 396,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 47,
+      "prev": "krajina_s_ofelii_050.html",
+      "next": "krajina_s_ofelii_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Veřejně II. (muž)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mistr",
+      "file": "krajina_s_ofelii_052.html",
+      "words": 43,
+      "chars": 248,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 48,
+      "prev": "krajina_s_ofelii_051.html",
+      "next": "krajina_s_ofelii_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mistr",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Paul Gauguin: Copak, žárlíš?",
+      "file": "krajina_s_ofelii_053.html",
+      "words": 31,
+      "chars": 158,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 49,
+      "prev": "krajina_s_ofelii_052.html",
+      "next": "krajina_s_ofelii_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Paul Gauguin: Copak, žárlíš?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lolita",
+      "file": "krajina_s_ofelii_054.html",
+      "words": 57,
+      "chars": 321,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 50,
+      "prev": "krajina_s_ofelii_053.html",
+      "next": "krajina_s_ofelii_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lolita",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Protimluv",
+      "file": "krajina_s_ofelii_055.html",
+      "words": 28,
+      "chars": 144,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 51,
+      "prev": "krajina_s_ofelii_054.html",
+      "next": "krajina_s_ofelii_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Protimluv",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mokře barbarsky",
+      "file": "krajina_s_ofelii_056.html",
+      "words": 28,
+      "chars": 145,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 52,
+      "prev": "krajina_s_ofelii_055.html",
+      "next": "krajina_s_ofelii_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mokře barbarsky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ohlédnutí",
+      "file": "krajina_s_ofelii_057.html",
+      "words": 31,
+      "chars": 205,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 53,
+      "prev": "krajina_s_ofelii_056.html",
+      "next": "krajina_s_ofelii_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ohlédnutí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mé ruce",
+      "file": "krajina_s_ofelii_058.html",
+      "words": 14,
+      "chars": 68,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 54,
+      "prev": "krajina_s_ofelii_057.html",
+      "next": "krajina_s_ofelii_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mé ruce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Amnonova modlitba",
+      "file": "krajina_s_ofelii_059.html",
+      "words": 98,
+      "chars": 526,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 55,
+      "prev": "krajina_s_ofelii_058.html",
+      "next": "krajina_s_ofelii_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Amnonova modlitba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Po pravdě",
+      "file": "krajina_s_ofelii_060.html",
+      "words": 45,
+      "chars": 224,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 56,
+      "prev": "krajina_s_ofelii_059.html",
+      "next": "krajina_s_ofelii_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Po pravdě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "krajina_s_ofelii_061.html",
+      "words": 42,
+      "chars": 201,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 57,
+      "prev": "krajina_s_ofelii_060.html",
+      "next": "krajina_s_ofelii_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Marina",
+      "file": "krajina_s_ofelii_062.html",
+      "words": 31,
+      "chars": 167,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 58,
+      "prev": "krajina_s_ofelii_061.html",
+      "next": "krajina_s_ofelii_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Marina",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Habanera",
+      "file": "krajina_s_ofelii_063.html",
+      "words": 30,
+      "chars": 181,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 59,
+      "prev": "krajina_s_ofelii_062.html",
+      "next": "krajina_s_ofelii_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Habanera",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tango",
+      "file": "krajina_s_ofelii_064.html",
+      "words": 28,
+      "chars": 155,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 60,
+      "prev": "krajina_s_ofelii_063.html",
+      "next": "krajina_s_ofelii_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tango",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mezi jarem a podzimem",
+      "file": "krajina_s_ofelii_065.html",
+      "words": 61,
+      "chars": 302,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 61,
+      "prev": "krajina_s_ofelii_064.html",
+      "next": "krajina_s_ofelii_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mezi jarem a podzimem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Královská hra",
+      "file": "krajina_s_ofelii_066.html",
+      "words": 22,
+      "chars": 126,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 62,
+      "prev": "krajina_s_ofelii_065.html",
+      "next": "krajina_s_ofelii_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Královská hra",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stavidla",
+      "file": "krajina_s_ofelii_067.html",
+      "words": 26,
+      "chars": 137,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 63,
+      "prev": "krajina_s_ofelii_066.html",
+      "next": "krajina_s_ofelii_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stavidla",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Až mě potkáš",
+      "file": "krajina_s_ofelii_068.html",
+      "words": 62,
+      "chars": 290,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 64,
+      "prev": "krajina_s_ofelii_067.html",
+      "next": "krajina_s_ofelii_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Až mě potkáš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Za ocas",
+      "file": "krajina_s_ofelii_069.html",
+      "words": 28,
+      "chars": 165,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 65,
+      "prev": "krajina_s_ofelii_068.html",
+      "next": "krajina_s_ofelii_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Za ocas",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Biblický námět",
+      "file": "krajina_s_ofelii_070.html",
+      "words": 50,
+      "chars": 288,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 66,
+      "prev": "krajina_s_ofelii_069.html",
+      "next": "krajina_s_ofelii_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Biblický námět",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ležela jsem",
+      "file": "krajina_s_ofelii_071.html",
+      "words": 33,
+      "chars": 153,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 67,
+      "prev": "krajina_s_ofelii_070.html",
+      "next": "krajina_s_ofelii_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ležela jsem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Porážka",
+      "file": "krajina_s_ofelii_072.html",
+      "words": 34,
+      "chars": 181,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 68,
+      "prev": "krajina_s_ofelii_071.html",
+      "next": "krajina_s_ofelii_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Porážka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pokrčení rameny",
+      "file": "krajina_s_ofelii_073.html",
+      "words": 22,
+      "chars": 110,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 69,
+      "prev": "krajina_s_ofelii_072.html",
+      "next": "krajina_s_ofelii_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pokrčení rameny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čaj s citrónem",
+      "file": "krajina_s_ofelii_074.html",
+      "words": 48,
+      "chars": 266,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 70,
+      "prev": "krajina_s_ofelii_073.html",
+      "next": "krajina_s_ofelii_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čaj s citrónem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Máš to",
+      "file": "krajina_s_ofelii_075.html",
+      "words": 28,
+      "chars": 138,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 71,
+      "prev": "krajina_s_ofelii_074.html",
+      "next": "krajina_s_ofelii_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Máš to",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Příchutě",
+      "file": "krajina_s_ofelii_076.html",
+      "words": 36,
+      "chars": 192,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 72,
+      "prev": "krajina_s_ofelii_075.html",
+      "next": "krajina_s_ofelii_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Příchutě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Francis Picabia: Španělská noc",
+      "file": "krajina_s_ofelii_077.html",
+      "words": 32,
+      "chars": 182,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 73,
+      "prev": "krajina_s_ofelii_076.html",
+      "next": "krajina_s_ofelii_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Francis Picabia: Španělská noc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Plesová sezóna",
+      "file": "krajina_s_ofelii_078.html",
+      "words": 54,
+      "chars": 307,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 74,
+      "prev": "krajina_s_ofelii_077.html",
+      "next": "krajina_s_ofelii_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Plesová sezóna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dáma se posadí",
+      "file": "krajina_s_ofelii_079.html",
+      "words": 64,
+      "chars": 309,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 75,
+      "prev": "krajina_s_ofelii_078.html",
+      "next": "krajina_s_ofelii_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dáma se posadí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Listopadová",
+      "file": "krajina_s_ofelii_080.html",
+      "words": 47,
+      "chars": 234,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 76,
+      "prev": "krajina_s_ofelii_079.html",
+      "next": "krajina_s_ofelii_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Listopadová",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Boky",
+      "file": "krajina_s_ofelii_081.html",
+      "words": 34,
+      "chars": 169,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 77,
+      "prev": "krajina_s_ofelii_080.html",
+      "next": "krajina_s_ofelii_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Boky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Klekání pro holuby",
+      "file": "krajina_s_ofelii_082.html",
+      "words": 96,
+      "chars": 533,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 78,
+      "prev": "krajina_s_ofelii_081.html",
+      "next": "krajina_s_ofelii_083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Klekání pro holuby",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zírání",
+      "file": "krajina_s_ofelii_083.html",
+      "words": 27,
+      "chars": 141,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 79,
+      "prev": "krajina_s_ofelii_082.html",
+      "next": "krajina_s_ofelii_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zírání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hejna",
+      "file": "krajina_s_ofelii_084.html",
+      "words": 28,
+      "chars": 150,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 80,
+      "prev": "krajina_s_ofelii_083.html",
+      "next": "krajina_s_ofelii_085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hejna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šípkový čaj",
+      "file": "krajina_s_ofelii_085.html",
+      "words": 36,
+      "chars": 218,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 81,
+      "prev": "krajina_s_ofelii_084.html",
+      "next": "krajina_s_ofelii_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šípkový čaj",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rut",
+      "file": "krajina_s_ofelii_086.html",
+      "words": 38,
+      "chars": 214,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 82,
+      "prev": "krajina_s_ofelii_085.html",
+      "next": "krajina_s_ofelii_087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rut",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Je to ale",
+      "file": "krajina_s_ofelii_087.html",
+      "words": 34,
+      "chars": 163,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 83,
+      "prev": "krajina_s_ofelii_086.html",
+      "next": "krajina_s_ofelii_088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Je to ale",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Biblické krásky",
+      "file": "krajina_s_ofelii_088.html",
+      "words": 38,
+      "chars": 209,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 84,
+      "prev": "krajina_s_ofelii_087.html",
+      "next": "krajina_s_ofelii_089.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Biblické krásky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krasobruslař",
+      "file": "krajina_s_ofelii_089.html",
+      "words": 24,
+      "chars": 144,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 85,
+      "prev": "krajina_s_ofelii_088.html",
+      "next": "krajina_s_ofelii_090.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Krasobruslař",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dvakrát",
+      "file": "krajina_s_ofelii_090.html",
+      "words": 41,
+      "chars": 219,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 86,
+      "prev": "krajina_s_ofelii_089.html",
+      "next": "krajina_s_ofelii_091.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dvakrát",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dotýkání",
+      "file": "krajina_s_ofelii_091.html",
+      "words": 17,
+      "chars": 99,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 87,
+      "prev": "krajina_s_ofelii_090.html",
+      "next": "krajina_s_ofelii_092.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dotýkání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Výstřihy",
+      "file": "krajina_s_ofelii_092.html",
+      "words": 42,
+      "chars": 239,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 88,
+      "prev": "krajina_s_ofelii_091.html",
+      "next": "krajina_s_ofelii_093.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Výstřihy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sny",
+      "file": "krajina_s_ofelii_093.html",
+      "words": 47,
+      "chars": 278,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 89,
+      "prev": "krajina_s_ofelii_092.html",
+      "next": "krajina_s_ofelii_094.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Záchytné body",
+      "file": "krajina_s_ofelii_094.html",
+      "words": 40,
+      "chars": 232,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 90,
+      "prev": "krajina_s_ofelii_093.html",
+      "next": "krajina_s_ofelii_095.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Záchytné body",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vincent Van Gogh: Rozsévač",
+      "file": "krajina_s_ofelii_095.html",
+      "words": 49,
+      "chars": 238,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 91,
+      "prev": "krajina_s_ofelii_094.html",
+      "next": "krajina_s_ofelii_096.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vincent Van Gogh: Rozsévač",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ukolébavka",
+      "file": "krajina_s_ofelii_096.html",
+      "words": 45,
+      "chars": 198,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 92,
+      "prev": "krajina_s_ofelii_095.html",
+      "next": "krajina_s_ofelii_097.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ukolébavka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kaleidoskop",
+      "file": "krajina_s_ofelii_097.html",
+      "words": 50,
+      "chars": 287,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 93,
+      "prev": "krajina_s_ofelii_096.html",
+      "next": "krajina_s_ofelii_098.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kaleidoskop",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Apokryf",
+      "file": "krajina_s_ofelii_098.html",
+      "words": 17,
+      "chars": 96,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 94,
+      "prev": "krajina_s_ofelii_097.html",
+      "next": "krajina_s_ofelii_099.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Apokryf",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bez názvu",
+      "file": "krajina_s_ofelii_099.html",
+      "words": 71,
+      "chars": 363,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 95,
+      "prev": "krajina_s_ofelii_098.html",
+      "next": "krajina_s_ofelii_100.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bez názvu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bilanční",
+      "file": "krajina_s_ofelii_100.html",
+      "words": 17,
+      "chars": 94,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 96,
+      "prev": "krajina_s_ofelii_099.html",
+      "next": "krajina_s_ofelii_101.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bilanční",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krajina s Ofélií",
+      "file": "krajina_s_ofelii_101.html",
+      "words": 23,
+      "chars": 117,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 97,
+      "prev": "krajina_s_ofelii_100.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Krajina s Ofélií",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 184,
+      "chars": 1224,
+      "ideas": 17,
+      "role": "colophon",
+      "order": null,
+      "prev": "krajina_s_ofelii_101.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 4389,
+      "chars": 23802,
+      "ideas": 1263
+    },
+    "chapters": {
+      "words": 4198,
+      "chars": 22540,
+      "ideas": 1242
+    }
+  }
+}

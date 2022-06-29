@@ -1,6 +1,6 @@
 ---
 title: Boky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

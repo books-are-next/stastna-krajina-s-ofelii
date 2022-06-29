@@ -1,6 +1,6 @@
 ---
 title: Pohádkáři
-contentType: prose
+contentType: poetry
 ---
 
 <section>

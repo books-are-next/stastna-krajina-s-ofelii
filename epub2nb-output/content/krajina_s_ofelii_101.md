@@ -1,6 +1,6 @@
 ---
 title: Krajina s Ofélií
-contentType: prose
+contentType: poetry
 ---
 
 <section>

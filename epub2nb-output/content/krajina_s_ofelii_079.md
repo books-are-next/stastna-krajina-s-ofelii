@@ -1,6 +1,6 @@
 ---
 title: Dáma se posadí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

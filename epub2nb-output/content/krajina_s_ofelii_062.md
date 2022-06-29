@@ -1,6 +1,6 @@
 ---
 title: Marina
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Veřejně II\. (muž)
-contentType: prose
+contentType: poetry
 ---
 
 <section>

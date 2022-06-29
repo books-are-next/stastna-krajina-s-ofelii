@@ -1,6 +1,6 @@
 ---
 title: Nelásky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

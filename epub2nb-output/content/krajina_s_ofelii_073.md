@@ -1,6 +1,6 @@
 ---
 title: Pokrčení rameny
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Africké slunce
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: 'Marc Chagall: Já a vesnice'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Lolita
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Co se mi stalo zlého
-contentType: prose
+contentType: poetry
 ---
 
 <section>

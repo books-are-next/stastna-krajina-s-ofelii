@@ -1,6 +1,6 @@
 ---
 title: Biblický námět
-contentType: prose
+contentType: poetry
 ---
 
 <section>

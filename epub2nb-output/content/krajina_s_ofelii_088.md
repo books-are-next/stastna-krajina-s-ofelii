@@ -1,6 +1,6 @@
 ---
 title: Biblické krásky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Roční doby
-contentType: prose
+contentType: poetry
 ---
 
 <section>

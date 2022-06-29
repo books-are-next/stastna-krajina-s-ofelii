@@ -1,6 +1,6 @@
 ---
 title: Listopadová
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Veřejně I\. (žena)
-contentType: prose
+contentType: poetry
 ---
 
 <section>

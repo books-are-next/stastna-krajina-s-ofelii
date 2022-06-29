@@ -1,6 +1,6 @@
 ---
 title: Velký úklid
-contentType: prose
+contentType: poetry
 ---
 
 <section>

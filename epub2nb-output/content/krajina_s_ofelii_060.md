@@ -1,6 +1,6 @@
 ---
 title: Po pravdě
-contentType: prose
+contentType: poetry
 ---
 
 <section>
