@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stastna-krajina-s-ofelii-8907b8a",
-  "revision": "8907b8a",
+  "identifier": "stastna-krajina-s-ofelii-92fa3f2",
+  "revision": "92fa3f2",
   "readingOrder": [
     "promo.html",
     "krajina_s_ofelii_005.html",
@@ -109,11 +109,11 @@
     "krajina_s_ofelii_099.html",
     "krajina_s_ofelii_100.html",
     "krajina_s_ofelii_101.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 29 2022 09:57:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656496639887
+    "date": "Thu Jul 07 2022 08:39:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183168775
   },
   "documents": [
     {
@@ -282,7 +282,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Zase až v létě",
+          "name": "Zase až v létě",
           "id": null,
           "children": []
         }
@@ -302,7 +302,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Dívenka z předměstí",
+          "name": "Dívenka z předměstí",
           "id": null,
           "children": []
         }
@@ -522,7 +522,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jestli mě chceš",
+          "name": "Jestli mě chceš",
           "id": null,
           "children": []
         }
@@ -542,7 +542,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Marc Chagall: Já a vesnice",
+          "name": "Marc Chagall: Já a vesnice",
           "id": null,
           "children": []
         }
@@ -582,7 +582,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Co se mi stalo zlého",
+          "name": "Co se mi stalo zlého",
           "id": null,
           "children": []
         }
@@ -822,7 +822,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Výslovnost a kroky",
+          "name": "Výslovnost a kroky",
           "id": null,
           "children": []
         }
@@ -1342,7 +1342,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Mezi jarem a podzimem",
+          "name": "Mezi jarem a podzimem",
           "id": null,
           "children": []
         }
@@ -1402,7 +1402,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Až mě potkáš",
+          "name": "Až mě potkáš",
           "id": null,
           "children": []
         }
@@ -1522,7 +1522,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Čaj s citrónem",
+          "name": "Čaj s citrónem",
           "id": null,
           "children": []
         }
@@ -1622,7 +1622,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Dáma se posadí",
+          "name": "Dáma se posadí",
           "id": null,
           "children": []
         }
@@ -1782,7 +1782,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Je to ale",
+          "name": "Je to ale",
           "id": null,
           "children": []
         }
@@ -2057,12 +2057,12 @@
       "role": "chapter",
       "order": 97,
       "prev": "krajina_s_ofelii_100.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Krajina s Ofélií",
+          "name": "Krajina s Ofélií",
           "id": null,
           "children": []
         }
@@ -2070,11 +2070,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 184,
-      "chars": 1224,
+      "chars": 1221,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "krajina_s_ofelii_101.html",
       "next": null,
@@ -2091,8 +2091,8 @@
   ],
   "totals": {
     "all": {
-      "words": 4389,
-      "chars": 23802,
+      "words": 4388,
+      "chars": 23804,
       "ideas": 1263
     },
     "chapters": {

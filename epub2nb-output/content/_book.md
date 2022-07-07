@@ -112,7 +112,7 @@ readingOrder:
   - krajina_s_ofelii_099.html
   - krajina_s_ofelii_100.html
   - krajina_s_ofelii_101.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
