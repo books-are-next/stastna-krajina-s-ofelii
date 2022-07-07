@@ -604,7 +604,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "* * *"
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "krajina_s_ofelii_045.md",
@@ -825,7 +825,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "* * *"
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "krajina_s_ofelii_062.md",
@@ -2058,6 +2058,6 @@
       "user": "books-are-next",
       "repo": "stastna-krajina-s-ofelii"
     },
-    "generatedAt": 1657182517458
+    "generatedAt": 1657184451491
   }
 }

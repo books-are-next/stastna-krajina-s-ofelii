@@ -234,7 +234,7 @@ tocBase:
         title: Kapka XXV.
         hiddenTitle: false
       - link: krajina_s_ofelii_044.html
-        title: "*\_*\_*"
+        title: \* \* \*
         hiddenTitle: false
       - link: krajina_s_ofelii_045.html
         title: Rubensovy Grácie
@@ -285,7 +285,7 @@ tocBase:
         title: Po pravdě
         hiddenTitle: false
       - link: krajina_s_ofelii_061.html
-        title: "*\_*\_*"
+        title: \* \* \*
         hiddenTitle: false
       - link: krajina_s_ofelii_062.html
         title: Marina
