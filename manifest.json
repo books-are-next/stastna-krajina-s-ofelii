@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stastna-krajina-s-ofelii-285a6b9",
-  "revision": "285a6b9",
+  "identifier": "stastna-krajina-s-ofelii-7c2214e",
+  "revision": "7c2214e",
   "readingOrder": [
     "promo.html",
     "krajina_s_ofelii_005.html",
@@ -112,8 +112,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:28:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657186084963
+    "date": "Thu Jul 21 2022 14:45:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414741298
   },
   "documents": [
     {
@@ -2072,7 +2072,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 184,
-      "chars": 1221,
+      "chars": 1224,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -2091,8 +2091,8 @@
   ],
   "totals": {
     "all": {
-      "words": 4388,
-      "chars": 23804,
+      "words": 4389,
+      "chars": 23802,
       "ideas": 1263
     },
     "chapters": {
