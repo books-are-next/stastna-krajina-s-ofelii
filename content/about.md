@@ -8,7 +8,7 @@ Edice Oceněná díla
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-V MKP 2. elektronické vydání z 7. 7. 2022.
+V MKP 2. elektronické vydání z 21. 7. 2022.
 
 ***
 
@@ -26,7 +26,7 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Citační záznam této e-knihy:
 
-ŠŤASTNÁ, Marie. _Krajina s Ofélií_ \[online\]. V MKP 2. elektronické vydání z 7. 7. 2022. Praha: Městská knihovna v Praze, 2017 \[cit. 7. 7. 2022]. ISBN 978-80-7532-678-2 (epub). Dostupné z:
+ŠŤASTNÁ, Marie. _Krajina s Ofélií_ \[online\]. V MKP 2. elektronické vydání z 21. 7. 2022. Praha: Městská knihovna v Praze, 2017 \[cit. 21. 7. 2022]. ISBN 978-80-7532-678-2 (epub). Dostupné z:
 
 [http://web2.mlp.cz/koweb/00/04/32/95/69/krajina\_s\_ofelii.epub](http://web2.mlp.cz/koweb/00/04/32/95/69/krajina_s_ofelii.epub).
 
